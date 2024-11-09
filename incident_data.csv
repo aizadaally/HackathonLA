@@ -1,0 +1,1001 @@
+Abuser_ID,Gender_of_Abuser,DOB_of_Abuser,Incident_ID,Incident_Date,Type_of_Incident,Victim_Gender,Victim_DOB,Relationship_to_Victim,Victim_Outcome,Abuser_Outcome,Severity_of_Case,Oblast
+ID0000001,Male,3/3/1990,Inc0000001,4/22/2020,verbal violence,Female,4/16/1965,Parent,Injured,Arrested,8,Bishkek city
+ID0000001,Male,12/5/1981,Inc0000002,1/26/2018,sexual violence,Female,6/3/1961,Partner,No injury,Released,10,Naryn oblast
+ID0000001,Male,6/8/1965,Inc0000003,12/30/2021,verbal violence,Female,6/20/1986,Parent,Hospitalized,Community Service,4,Chui oblast
+ID0000002,Male,9/25/1973,Inc0000004,1/29/2023,physical violence,Female,12/24/1994,Spouse,Hospitalized,Community Service,10,Osh oblast
+ID0000002,Male,4/16/1960,Inc0000005,3/27/2021,sexual violence,Female,4/1/1960,Parent,Hospitalized,Released,9,Chui oblast
+ID0000002,Male,3/20/1973,Inc0000006,1/12/2022,psychological violence,Female,4/27/1964,Spouse,No injury,Community Service,4,Osh oblast
+ID0000002,Female,3/9/1975,Inc0000007,7/3/2024,psychological violence,Female,2/26/1980,Sibling,Hospitalized,Community Service,5,Chui oblast
+ID0000003,Male,8/18/1969,Inc0000008,11/1/2021,psychological violence,Female,1/25/1978,Parent,Injured,Released,2,Osh oblast
+ID0000003,Male,1/2/1977,Inc0000009,11/30/2023,physical violence,Female,5/26/1994,Spouse,Injured,Community Service,8,Chui oblast
+ID0000004,Male,1/29/1985,Inc0000010,1/5/2023,sexual violence,Female,3/12/1969,Spouse,No injury,Arrested,10,Bishkek city
+ID0000004,Male,12/23/1965,Inc0000011,12/30/2020,physical violence,Female,9/26/1982,Sibling,No injury,Arrested,4,Osh oblast
+ID0000004,Male,6/9/1969,Inc0000012,4/21/2022,physical violence,Female,8/25/1971,Parent,Hospitalized,Released,10,Bishkek city
+ID0000004,Male,7/16/1967,Inc0000013,7/30/2020,verbal violence,Female,1/17/1995,Partner,No injury,Released,7,Yssyk-Kul oblast
+ID0000005,Male,10/28/1980,Inc0000014,4/3/2020,verbal violence,Female,5/9/1998,Partner,No injury,Community Service,4,Bishkek city
+ID0000006,Male,10/16/2000,Inc0000015,9/21/2023,psychological violence,Female,1/8/1979,Partner,Hospitalized,Released,2,Jalal-Abat oblast
+ID0000006,Male,10/3/1960,Inc0000016,6/17/2020,physical violence,Female,2/6/1983,Partner,Injured,Community Service,2,Chui oblast
+ID0000007,Male,2/28/1991,Inc0000017,12/18/2019,verbal violence,Female,11/28/1998,Partner,Injured,Arrested,9,Jalal-Abat oblast
+ID0000008,Male,1/24/1989,Inc0000018,10/8/2020,verbal violence,Female,7/14/1997,Parent,Hospitalized,Community Service,4,Bishkek city
+ID0000008,Male,6/30/2000,Inc0000019,9/19/2018,verbal violence,Female,4/25/1966,Spouse,Injured,Community Service,9,Osh oblast
+ID0000009,Female,2/5/1988,Inc0000020,9/16/2022,physical violence,Female,9/26/1993,Parent,No injury,Arrested,1,Osh oblast
+ID0000009,Male,11/11/1965,Inc0000021,4/16/2023,verbal violence,Female,6/14/1992,Ex-spouse,Injured,Community Service,6,Talas oblast
+ID0000010,Male,3/26/1981,Inc0000022,12/6/2022,verbal violence,Female,9/18/1972,Spouse,Injured,Community Service,9,Chui oblast
+ID0000010,Male,8/15/1985,Inc0000023,1/9/2024,physical violence,Female,7/12/1965,Ex-spouse,Injured,Released,1,Osh city
+ID0000011,Male,5/13/1984,Inc0000024,5/15/2019,physical violence,Female,2/4/1973,Sibling,Hospitalized,Arrested,6,Chui oblast
+ID0000012,Male,6/20/1981,Inc0000025,4/7/2022,verbal violence,Female,12/18/1974,Ex-spouse,Injured,Community Service,4,Bishkek city
+ID0000012,Male,1/29/1964,Inc0000026,3/5/2022,psychological violence,Female,12/9/1980,Ex-spouse,Hospitalized,Community Service,5,Chui oblast
+ID0000012,Male,12/18/1984,Inc0000027,2/6/2018,sexual violence,Male,10/10/1978,Partner,No injury,Released,7,Yssyk-Kul oblast
+ID0000013,Male,3/28/1995,Inc0000028,9/27/2018,sexual violence,Female,3/15/1998,Partner,Hospitalized,Released,4,Chui oblast
+ID0000013,Male,7/25/1984,Inc0000029,3/13/2019,sexual violence,Female,1/18/1981,Sibling,Injured,Arrested,5,Bishkek city
+ID0000013,Male,5/4/1960,Inc0000030,12/20/2020,sexual violence,Female,5/27/1968,Sibling,Hospitalized,Arrested,9,Batken oblast
+ID0000013,Female,8/3/1994,Inc0000031,6/1/2020,verbal violence,Female,7/10/1960,Partner,No injury,Released,4,Naryn oblast
+ID0000014,Female,11/7/1990,Inc0000032,6/19/2019,sexual violence,Female,3/26/1966,Sibling,Injured,Community Service,2,Batken oblast
+ID0000014,Male,4/26/1973,Inc0000033,10/27/2018,sexual violence,Female,8/28/1998,Partner,Injured,Released,6,Bishkek city
+ID0000015,Male,10/31/1982,Inc0000034,5/23/2022,sexual violence,Female,2/4/1972,Ex-spouse,Injured,Arrested,7,Yssyk-Kul oblast
+ID0000016,Male,9/27/1987,Inc0000035,7/5/2023,psychological violence,Female,10/2/1996,Sibling,Hospitalized,Community Service,5,Talas oblast
+ID0000017,Female,5/11/1995,Inc0000036,11/8/2020,physical violence,Female,10/25/1989,Sibling,Hospitalized,Released,2,Chui oblast
+ID0000017,Male,4/2/1989,Inc0000037,3/20/2020,verbal violence,Female,1/8/1986,Parent,Injured,Arrested,4,Yssyk-Kul oblast
+ID0000018,Male,1/30/1988,Inc0000038,3/10/2022,physical violence,Female,8/24/1973,Spouse,No injury,Arrested,2,Chui oblast
+ID0000019,Male,4/15/1994,Inc0000039,7/16/2023,psychological violence,Female,7/9/1966,Ex-spouse,Injured,Released,3,Bishkek city
+ID0000019,Male,7/16/1997,Inc0000040,3/31/2023,sexual violence,Female,10/12/1973,Ex-spouse,No injury,Arrested,5,Chui oblast
+ID0000019,Male,4/17/1975,Inc0000041,2/20/2024,verbal violence,Female,6/17/1978,Spouse,Hospitalized,Community Service,3,Osh oblast
+ID0000020,Male,8/30/1994,Inc0000042,6/30/2020,verbal violence,Female,10/29/1960,Parent,No injury,Released,6,Jalal-Abat oblast
+ID0000020,Male,3/25/1991,Inc0000043,6/5/2023,psychological violence,Female,12/22/1962,Ex-spouse,Hospitalized,Arrested,4,Jalal-Abat oblast
+ID0000021,Male,11/2/1991,Inc0000044,8/14/2021,physical violence,Female,1/9/1980,Sibling,Injured,Community Service,7,Osh city
+ID0000021,Male,3/8/1990,Inc0000045,3/3/2024,verbal violence,Female,8/24/1988,Partner,Injured,Community Service,9,Jalal-Abat oblast
+ID0000021,Male,12/18/1993,Inc0000046,7/29/2023,sexual violence,Female,10/23/1966,Parent,Injured,Released,4,Chui oblast
+ID0000022,Male,9/28/2000,Inc0000047,4/9/2021,psychological violence,Female,8/7/1976,Partner,Hospitalized,Community Service,10,Yssyk-Kul oblast
+ID0000022,Male,12/29/1995,Inc0000048,5/16/2024,sexual violence,Female,5/26/1972,Parent,Injured,Community Service,2,Chui oblast
+ID0000022,Male,2/7/1984,Inc0000049,9/7/2020,sexual violence,Female,6/8/1978,Parent,Hospitalized,Arrested,2,Bishkek city
+ID0000023,Male,6/12/1993,Inc0000050,1/19/2020,psychological violence,Female,6/1/1971,Sibling,Hospitalized,Released,4,Chui oblast
+ID0000023,Male,11/30/1989,Inc0000051,3/16/2024,sexual violence,Female,9/23/1967,Ex-spouse,Hospitalized,Released,10,Yssyk-Kul oblast
+ID0000023,Male,3/17/1990,Inc0000052,10/9/2020,sexual violence,Female,10/30/1983,Parent,Hospitalized,Arrested,9,Chui oblast
+ID0000024,Male,6/1/1971,Inc0000053,2/17/2022,verbal violence,Female,9/23/1971,Parent,Hospitalized,Released,5,Jalal-Abat oblast
+ID0000024,Male,10/3/1966,Inc0000054,3/16/2022,physical violence,Female,1/21/1966,Ex-spouse,Hospitalized,Released,5,Naryn oblast
+ID0000024,Male,4/2/1964,Inc0000055,2/16/2020,sexual violence,Female,1/22/1982,Parent,Injured,Community Service,1,Chui oblast
+ID0000025,Male,5/31/1987,Inc0000056,9/17/2020,physical violence,Female,4/19/1990,Parent,No injury,Community Service,4,Jalal-Abat oblast
+ID0000025,Male,8/30/1979,Inc0000057,11/25/2019,sexual violence,Female,6/18/1973,Partner,Hospitalized,Arrested,6,Bishkek city
+ID0000025,Male,10/14/1984,Inc0000058,8/14/2018,verbal violence,Female,10/25/1988,Partner,Injured,Released,10,Bishkek city
+ID0000025,Male,5/13/1977,Inc0000059,12/2/2023,verbal violence,Male,9/30/1994,Partner,No injury,Arrested,2,Chui oblast
+ID0000026,Male,6/10/1996,Inc0000060,4/28/2021,sexual violence,Female,10/8/1977,Spouse,Hospitalized,Community Service,7,Chui oblast
+ID0000026,Male,9/21/1973,Inc0000061,10/29/2018,psychological violence,Female,3/13/1992,Partner,Hospitalized,Arrested,10,Yssyk-Kul oblast
+ID0000026,Male,11/13/1975,Inc0000062,1/11/2021,physical violence,Female,9/28/1979,Ex-spouse,No injury,Released,5,Jalal-Abat oblast
+ID0000026,Male,6/22/1992,Inc0000063,10/17/2021,sexual violence,Female,10/10/1976,Spouse,No injury,Released,1,Chui oblast
+ID0000027,Male,4/13/1994,Inc0000064,2/13/2022,verbal violence,Female,10/30/1964,Ex-spouse,No injury,Community Service,8,Bishkek city
+ID0000027,Male,2/3/1977,Inc0000065,1/29/2022,sexual violence,Female,9/29/1998,Sibling,No injury,Released,5,Bishkek city
+ID0000027,Male,4/11/1997,Inc0000066,11/1/2019,verbal violence,Female,7/31/1965,Partner,No injury,Arrested,8,Chui oblast
+ID0000027,Male,4/28/1973,Inc0000067,6/7/2022,verbal violence,Female,9/6/1964,Spouse,Injured,Released,1,Bishkek city
+ID0000028,Male,1/7/1970,Inc0000068,10/19/2021,sexual violence,Female,12/28/1972,Spouse,Injured,Arrested,2,Bishkek city
+ID0000029,Male,9/21/1985,Inc0000069,11/26/2018,physical violence,Female,10/30/1991,Partner,Hospitalized,Arrested,6,Bishkek city
+ID0000029,Female,1/25/1982,Inc0000070,6/23/2024,physical violence,Female,1/12/1981,Ex-spouse,Injured,Arrested,1,Batken oblast
+ID0000029,Male,11/14/1980,Inc0000071,3/29/2023,verbal violence,Female,7/27/1979,Sibling,No injury,Arrested,7,Osh oblast
+ID0000030,Male,11/24/1999,Inc0000072,5/28/2020,sexual violence,Female,10/23/1994,Partner,Hospitalized,Arrested,6,Chui oblast
+ID0000030,Male,6/30/1993,Inc0000073,1/20/2020,physical violence,Female,2/7/1969,Parent,No injury,Community Service,8,Bishkek city
+ID0000031,Male,9/27/1995,Inc0000074,7/30/2024,sexual violence,Female,12/26/1988,Sibling,No injury,Arrested,7,Jalal-Abat oblast
+ID0000031,Male,9/15/1974,Inc0000075,3/15/2018,physical violence,Female,9/11/1993,Ex-spouse,Hospitalized,Released,7,Chui oblast
+ID0000031,Male,1/9/1970,Inc0000076,6/2/2023,physical violence,Female,7/26/1999,Ex-spouse,Hospitalized,Released,7,Chui oblast
+ID0000031,Male,6/15/1996,Inc0000077,12/29/2023,sexual violence,Female,9/20/1987,Spouse,Injured,Arrested,1,Bishkek city
+ID0000032,Male,9/8/1989,Inc0000078,10/11/2023,verbal violence,Female,2/14/1977,Parent,Hospitalized,Arrested,2,Batken oblast
+ID0000032,Male,12/17/1993,Inc0000079,6/26/2021,physical violence,Female,8/27/1986,Ex-spouse,Hospitalized,Community Service,4,Chui oblast
+ID0000032,Male,9/11/1989,Inc0000080,1/16/2018,verbal violence,Female,5/6/1979,Partner,No injury,Community Service,10,Jalal-Abat oblast
+ID0000033,Male,5/21/1992,Inc0000081,4/26/2024,verbal violence,Female,3/2/1992,Sibling,Injured,Released,4,Jalal-Abat oblast
+ID0000034,Male,8/1/1974,Inc0000082,9/7/2023,psychological violence,Female,11/14/1993,Spouse,Injured,Community Service,9,Yssyk-Kul oblast
+ID0000035,Male,10/8/1978,Inc0000083,1/31/2023,verbal violence,Female,9/25/1993,Partner,Hospitalized,Arrested,1,Bishkek city
+ID0000035,Male,9/11/1961,Inc0000084,9/9/2019,physical violence,Female,4/1/1962,Ex-spouse,No injury,Released,4,Bishkek city
+ID0000035,Male,12/22/1985,Inc0000085,5/13/2021,verbal violence,Female,9/2/1990,Sibling,Hospitalized,Community Service,9,Chui oblast
+ID0000036,Male,11/16/1995,Inc0000086,3/23/2024,sexual violence,Female,9/7/1990,Parent,Injured,Arrested,7,Chui oblast
+ID0000036,Male,10/2/1975,Inc0000087,5/2/2022,physical violence,Female,6/3/1996,Ex-spouse,No injury,Released,5,Chui oblast
+ID0000036,Male,5/20/1997,Inc0000088,7/26/2019,sexual violence,Female,4/5/1971,Parent,Injured,Arrested,1,Chui oblast
+ID0000036,Male,12/21/1968,Inc0000089,6/18/2021,sexual violence,Female,11/22/1981,Ex-spouse,No injury,Released,7,Chui oblast
+ID0000037,Male,9/30/1976,Inc0000090,9/24/2020,verbal violence,Female,3/7/1964,Parent,Hospitalized,Community Service,6,Chui oblast
+ID0000037,Male,12/11/1976,Inc0000091,4/12/2018,physical violence,Female,10/27/1983,Spouse,Injured,Released,5,Bishkek city
+ID0000037,Female,5/11/1966,Inc0000092,9/1/2020,physical violence,Female,9/20/1964,Sibling,Hospitalized,Community Service,5,Osh oblast
+ID0000037,Female,10/7/1998,Inc0000093,12/13/2023,verbal violence,Female,3/29/1995,Ex-spouse,Injured,Released,6,Talas oblast
+ID0000038,Male,9/9/1969,Inc0000094,2/27/2019,sexual violence,Female,2/14/1965,Sibling,Hospitalized,Community Service,3,Naryn oblast
+ID0000038,Male,4/2/1967,Inc0000095,2/28/2024,verbal violence,Female,8/27/1965,Ex-spouse,Hospitalized,Arrested,1,Osh oblast
+ID0000038,Male,3/8/1987,Inc0000096,4/26/2024,sexual violence,Female,12/5/1978,Parent,Injured,Released,3,Bishkek city
+ID0000039,Male,5/5/1962,Inc0000097,8/24/2023,physical violence,Female,11/3/1960,Parent,No injury,Arrested,7,Jalal-Abat oblast
+ID0000039,Male,1/29/1978,Inc0000098,9/3/2021,psychological violence,Female,5/4/1976,Ex-spouse,Hospitalized,Community Service,4,Bishkek city
+ID0000039,Male,6/16/1975,Inc0000099,3/16/2023,physical violence,Female,6/19/1988,Ex-spouse,Injured,Released,6,Yssyk-Kul oblast
+ID0000040,Male,12/23/1996,Inc0000100,7/19/2019,physical violence,Female,9/18/1969,Ex-spouse,Hospitalized,Released,3,Chui oblast
+ID0000040,Male,8/13/1987,Inc0000101,3/5/2018,sexual violence,Female,4/3/1999,Parent,Hospitalized,Released,5,Bishkek city
+ID0000040,Male,7/20/1993,Inc0000102,12/28/2023,sexual violence,Female,9/25/1983,Ex-spouse,Hospitalized,Community Service,6,Osh oblast
+ID0000040,Male,6/3/1993,Inc0000103,9/2/2019,verbal violence,Female,10/23/1967,Ex-spouse,Hospitalized,Community Service,7,Jalal-Abat oblast
+ID0000041,Male,7/9/1973,Inc0000104,1/18/2020,verbal violence,Female,5/19/1996,Sibling,Injured,Arrested,10,Bishkek city
+ID0000041,Male,8/26/1991,Inc0000105,11/22/2018,verbal violence,Female,11/4/1988,Ex-spouse,Hospitalized,Community Service,3,Jalal-Abat oblast
+ID0000041,Male,6/16/2000,Inc0000106,1/21/2022,psychological violence,Female,6/3/1962,Spouse,Hospitalized,Community Service,7,Yssyk-Kul oblast
+ID0000041,Male,7/22/1968,Inc0000107,8/27/2021,verbal violence,Female,12/2/1963,Ex-spouse,No injury,Released,2,Chui oblast
+ID0000042,Male,8/12/1995,Inc0000108,2/20/2020,psychological violence,Female,8/24/1978,Parent,Hospitalized,Community Service,4,Talas oblast
+ID0000043,Male,9/9/1995,Inc0000109,4/28/2023,verbal violence,Female,1/2/1965,Spouse,Injured,Community Service,3,Bishkek city
+ID0000043,Male,4/4/1995,Inc0000110,10/17/2019,physical violence,Female,9/12/1961,Sibling,Injured,Released,3,Chui oblast
+ID0000043,Male,5/15/1985,Inc0000111,10/19/2022,sexual violence,Female,5/28/1988,Partner,No injury,Released,10,Bishkek city
+ID0000043,Male,11/22/1967,Inc0000112,3/5/2018,psychological violence,Female,5/28/1988,Spouse,No injury,Arrested,3,Jalal-Abat oblast
+ID0000044,Male,4/1/1993,Inc0000113,7/3/2023,physical violence,Female,2/3/1983,Sibling,No injury,Arrested,1,Bishkek city
+ID0000044,Male,6/9/1963,Inc0000114,8/14/2021,sexual violence,Female,5/3/1977,Parent,Hospitalized,Arrested,1,Bishkek city
+ID0000045,Female,11/18/1999,Inc0000115,1/16/2020,sexual violence,Female,10/1/1975,Parent,Hospitalized,Community Service,6,Jalal-Abat oblast
+ID0000046,Male,2/12/1970,Inc0000116,6/19/2023,sexual violence,Female,10/27/1975,Sibling,Injured,Released,5,Talas oblast
+ID0000046,Male,10/24/1964,Inc0000117,2/24/2024,physical violence,Female,10/11/1999,Sibling,Injured,Released,7,Osh city
+ID0000047,Male,2/15/1970,Inc0000118,1/16/2022,physical violence,Female,1/24/1999,Ex-spouse,Injured,Arrested,8,Naryn oblast
+ID0000047,Male,7/26/1969,Inc0000119,2/9/2020,verbal violence,Female,5/12/1963,Parent,Injured,Community Service,7,Osh oblast
+ID0000047,Male,2/3/1985,Inc0000120,7/10/2019,psychological violence,Female,11/28/1981,Sibling,Injured,Arrested,2,Chui oblast
+ID0000047,Male,10/13/1963,Inc0000121,11/23/2018,psychological violence,Female,5/7/1961,Partner,Hospitalized,Arrested,1,Chui oblast
+ID0000048,Male,7/25/1993,Inc0000122,12/8/2019,verbal violence,Female,9/22/1989,Ex-spouse,Injured,Arrested,10,Bishkek city
+ID0000049,Male,2/18/1994,Inc0000123,3/24/2019,psychological violence,Female,1/22/1974,Ex-spouse,No injury,Released,5,Jalal-Abat oblast
+ID0000049,Female,1/16/1991,Inc0000124,7/5/2019,sexual violence,Female,10/17/1995,Ex-spouse,Hospitalized,Arrested,5,Bishkek city
+ID0000049,Male,4/9/1999,Inc0000125,5/29/2023,verbal violence,Female,7/13/1971,Parent,Injured,Released,3,Jalal-Abat oblast
+ID0000049,Male,2/27/1974,Inc0000126,6/8/2021,sexual violence,Female,12/14/1996,Partner,Injured,Community Service,1,Jalal-Abat oblast
+ID0000050,Male,8/15/1994,Inc0000127,11/30/2018,verbal violence,Female,7/31/1998,Sibling,Hospitalized,Arrested,2,Bishkek city
+ID0000051,Male,4/22/1973,Inc0000128,4/10/2023,sexual violence,Female,10/6/1965,Spouse,Injured,Released,9,Osh oblast
+ID0000051,Male,3/26/1993,Inc0000129,10/30/2022,psychological violence,Female,3/2/1977,Spouse,No injury,Community Service,4,Chui oblast
+ID0000051,Male,5/11/1981,Inc0000130,10/14/2020,sexual violence,Female,3/3/1970,Sibling,Hospitalized,Arrested,6,Jalal-Abat oblast
+ID0000052,Male,4/18/1961,Inc0000131,11/30/2023,verbal violence,Female,1/25/1985,Spouse,Injured,Community Service,5,Jalal-Abat oblast
+ID0000052,Male,1/6/1991,Inc0000132,2/11/2021,psychological violence,Female,7/18/1972,Parent,Injured,Community Service,7,Chui oblast
+ID0000052,Male,2/7/1976,Inc0000133,12/23/2022,physical violence,Female,5/6/1977,Sibling,Hospitalized,Arrested,10,Osh oblast
+ID0000053,Male,9/18/1970,Inc0000134,3/22/2019,psychological violence,Female,4/7/1994,Ex-spouse,Injured,Released,1,Bishkek city
+ID0000054,Male,2/9/1981,Inc0000135,12/3/2020,psychological violence,Female,3/27/1998,Partner,Hospitalized,Arrested,3,Bishkek city
+ID0000054,Male,4/7/1964,Inc0000136,8/24/2021,verbal violence,Female,9/22/1972,Partner,Injured,Community Service,3,Yssyk-Kul oblast
+ID0000055,Male,3/21/1994,Inc0000137,5/15/2024,physical violence,Female,9/13/1961,Sibling,No injury,Released,9,Bishkek city
+ID0000055,Male,5/31/1984,Inc0000138,3/23/2019,psychological violence,Female,5/16/1982,Sibling,Hospitalized,Community Service,1,Talas oblast
+ID0000056,Male,11/26/1969,Inc0000139,5/17/2019,sexual violence,Female,11/21/1992,Ex-spouse,Injured,Community Service,8,Yssyk-Kul oblast
+ID0000056,Male,5/30/1986,Inc0000140,8/4/2022,verbal violence,Female,7/4/1967,Ex-spouse,Hospitalized,Community Service,6,Chui oblast
+ID0000056,Male,8/15/1992,Inc0000141,1/8/2023,sexual violence,Female,1/11/1965,Parent,Hospitalized,Arrested,1,Chui oblast
+ID0000056,Male,12/9/1990,Inc0000142,8/8/2023,psychological violence,Female,3/29/1985,Sibling,Injured,Released,4,Naryn oblast
+ID0000057,Male,12/23/1975,Inc0000143,12/8/2019,verbal violence,Female,4/6/1986,Parent,No injury,Arrested,9,Talas oblast
+ID0000057,Male,1/15/1962,Inc0000144,10/11/2020,physical violence,Female,1/20/1998,Parent,No injury,Community Service,3,Chui oblast
+ID0000058,Male,9/8/1990,Inc0000145,5/24/2021,verbal violence,Female,6/17/1964,Parent,Hospitalized,Released,5,Yssyk-Kul oblast
+ID0000059,Male,3/10/1960,Inc0000146,11/29/2023,psychological violence,Female,4/6/1963,Parent,Hospitalized,Arrested,3,Chui oblast
+ID0000060,Male,3/19/1975,Inc0000147,5/9/2020,verbal violence,Female,12/13/1981,Sibling,Injured,Released,4,Chui oblast
+ID0000060,Male,8/31/1972,Inc0000148,4/22/2022,verbal violence,Female,1/7/1976,Spouse,No injury,Released,3,Yssyk-Kul oblast
+ID0000061,Male,2/28/1989,Inc0000149,12/27/2021,sexual violence,Female,6/16/1982,Spouse,Hospitalized,Arrested,1,Chui oblast
+ID0000061,Male,4/18/1998,Inc0000150,5/17/2018,sexual violence,Female,11/26/1978,Spouse,Hospitalized,Community Service,8,Batken oblast
+ID0000062,Male,1/18/1990,Inc0000151,10/19/2019,verbal violence,Female,11/25/1983,Spouse,Hospitalized,Arrested,6,Bishkek city
+ID0000062,Male,7/20/1989,Inc0000152,4/15/2021,psychological violence,Female,5/19/1967,Parent,Injured,Released,5,Osh oblast
+ID0000062,Male,12/14/1962,Inc0000153,9/28/2021,sexual violence,Female,9/26/1996,Sibling,Injured,Released,6,Chui oblast
+ID0000062,Male,9/20/1974,Inc0000154,2/7/2021,verbal violence,Female,8/25/1994,Parent,No injury,Arrested,5,Chui oblast
+ID0000063,Male,6/18/1973,Inc0000155,1/23/2021,physical violence,Female,2/23/1966,Ex-spouse,No injury,Community Service,1,Jalal-Abat oblast
+ID0000063,Male,2/9/1961,Inc0000156,9/4/2023,verbal violence,Female,5/21/1982,Ex-spouse,Hospitalized,Arrested,3,Bishkek city
+ID0000063,Female,4/27/1963,Inc0000157,11/15/2021,verbal violence,Female,1/31/1970,Ex-spouse,No injury,Released,5,Jalal-Abat oblast
+ID0000063,Male,6/18/1986,Inc0000158,10/19/2018,physical violence,Female,9/10/1991,Parent,Hospitalized,Community Service,10,Bishkek city
+ID0000064,Male,3/11/1995,Inc0000159,12/22/2020,verbal violence,Female,6/23/1962,Ex-spouse,Injured,Arrested,7,Osh oblast
+ID0000065,Male,6/15/1987,Inc0000160,6/5/2023,psychological violence,Female,10/27/1983,Parent,Hospitalized,Arrested,6,Bishkek city
+ID0000065,Male,11/9/1966,Inc0000161,11/25/2023,psychological violence,Female,2/24/1964,Parent,Hospitalized,Released,1,Talas oblast
+ID0000066,Male,5/2/1971,Inc0000162,5/5/2022,physical violence,Female,12/6/1998,Sibling,No injury,Released,6,Bishkek city
+ID0000067,Male,4/3/1975,Inc0000163,11/3/2021,physical violence,Female,7/24/1991,Spouse,No injury,Released,7,Jalal-Abat oblast
+ID0000068,Male,4/8/1981,Inc0000164,7/12/2020,psychological violence,Female,5/17/1985,Spouse,No injury,Arrested,3,Jalal-Abat oblast
+ID0000068,Male,4/27/1967,Inc0000165,5/21/2021,sexual violence,Female,2/28/1977,Partner,Hospitalized,Arrested,4,Bishkek city
+ID0000069,Male,8/23/1969,Inc0000166,12/29/2023,sexual violence,Female,11/16/1978,Spouse,Hospitalized,Arrested,6,Chui oblast
+ID0000069,Male,4/9/1994,Inc0000167,11/29/2018,psychological violence,Female,6/30/1996,Sibling,Hospitalized,Community Service,7,Chui oblast
+ID0000070,Male,6/15/1972,Inc0000168,5/21/2023,psychological violence,Female,4/8/1985,Parent,Hospitalized,Community Service,9,Chui oblast
+ID0000071,Female,4/18/1986,Inc0000169,11/11/2018,psychological violence,Female,10/18/2000,Partner,Hospitalized,Released,6,Bishkek city
+ID0000071,Male,2/4/1975,Inc0000170,12/31/2018,physical violence,Female,11/26/1963,Partner,Injured,Arrested,9,Chui oblast
+ID0000071,Male,6/6/1961,Inc0000171,2/9/2024,psychological violence,Female,11/30/1997,Spouse,Injured,Released,7,Osh city
+ID0000071,Male,7/16/1988,Inc0000172,5/20/2021,physical violence,Female,6/11/1966,Ex-spouse,Injured,Released,10,Chui oblast
+ID0000072,Female,3/15/1985,Inc0000173,11/29/2023,psychological violence,Female,3/24/1980,Partner,Injured,Community Service,2,Chui oblast
+ID0000072,Male,6/4/1979,Inc0000174,9/14/2019,psychological violence,Female,11/5/1963,Partner,Injured,Released,9,Chui oblast
+ID0000073,Male,11/4/1962,Inc0000175,12/21/2018,sexual violence,Male,3/16/1990,Partner,Injured,Arrested,5,Osh oblast
+ID0000074,Male,10/2/1981,Inc0000176,7/30/2022,verbal violence,Female,10/13/1983,Parent,Injured,Arrested,7,Naryn oblast
+ID0000074,Male,4/28/1980,Inc0000177,2/1/2018,physical violence,Female,3/2/1978,Parent,Injured,Community Service,2,Chui oblast
+ID0000074,Male,2/5/1980,Inc0000178,1/27/2022,sexual violence,Female,4/6/1972,Parent,Injured,Released,8,Chui oblast
+ID0000075,Female,7/2/2000,Inc0000179,1/11/2021,psychological violence,Female,1/26/1986,Sibling,No injury,Community Service,1,Chui oblast
+ID0000076,Female,11/2/1961,Inc0000180,7/20/2018,physical violence,Female,9/7/1976,Ex-spouse,Hospitalized,Community Service,2,Bishkek city
+ID0000076,Male,3/5/1982,Inc0000181,6/17/2023,psychological violence,Male,1/20/1991,Spouse,Hospitalized,Community Service,7,Jalal-Abat oblast
+ID0000077,Male,7/9/1995,Inc0000182,11/19/2021,psychological violence,Female,10/8/1992,Ex-spouse,Injured,Community Service,9,Bishkek city
+ID0000077,Female,5/11/1983,Inc0000183,4/10/2022,psychological violence,Female,4/27/1974,Spouse,Injured,Released,1,Chui oblast
+ID0000077,Male,4/29/1987,Inc0000184,9/25/2019,verbal violence,Female,8/29/1992,Partner,Hospitalized,Arrested,1,Naryn oblast
+ID0000078,Male,3/22/1998,Inc0000185,2/25/2020,psychological violence,Female,11/16/1962,Ex-spouse,No injury,Community Service,8,Bishkek city
+ID0000079,Male,6/6/1982,Inc0000186,4/26/2018,sexual violence,Female,10/21/1992,Spouse,Injured,Community Service,5,Chui oblast
+ID0000079,Female,11/8/1988,Inc0000187,5/12/2018,psychological violence,Female,3/31/1962,Spouse,Injured,Released,6,Chui oblast
+ID0000079,Male,4/6/1971,Inc0000188,7/12/2018,verbal violence,Female,8/14/1983,Parent,No injury,Released,3,Talas oblast
+ID0000080,Female,5/10/1993,Inc0000189,7/11/2018,verbal violence,Female,5/18/1985,Partner,Hospitalized,Released,4,Jalal-Abat oblast
+ID0000080,Male,4/5/1962,Inc0000190,8/18/2020,sexual violence,Male,12/24/1961,Parent,Hospitalized,Released,10,Bishkek city
+ID0000081,Male,1/26/1986,Inc0000191,3/16/2023,psychological violence,Female,3/5/1984,Partner,Injured,Arrested,9,Bishkek city
+ID0000081,Male,3/17/1985,Inc0000192,9/3/2020,physical violence,Female,12/29/1999,Spouse,No injury,Arrested,6,Chui oblast
+ID0000081,Male,6/20/1996,Inc0000193,9/25/2022,psychological violence,Female,7/16/1963,Sibling,Injured,Released,8,Yssyk-Kul oblast
+ID0000081,Male,7/4/1990,Inc0000194,11/9/2023,sexual violence,Female,5/12/1963,Spouse,Hospitalized,Community Service,1,Bishkek city
+ID0000082,Male,1/18/2000,Inc0000195,4/29/2018,verbal violence,Female,2/12/1966,Sibling,No injury,Arrested,1,Jalal-Abat oblast
+ID0000083,Male,10/1/1988,Inc0000196,1/17/2021,sexual violence,Female,3/4/1986,Parent,Hospitalized,Released,10,Jalal-Abat oblast
+ID0000083,Male,6/18/1971,Inc0000197,3/12/2018,verbal violence,Female,11/4/1981,Parent,Injured,Released,10,Chui oblast
+ID0000084,Male,12/9/1984,Inc0000198,3/31/2021,sexual violence,Female,8/11/1998,Spouse,Injured,Community Service,9,Bishkek city
+ID0000084,Male,8/18/1992,Inc0000199,12/13/2018,verbal violence,Female,9/23/1965,Partner,Hospitalized,Arrested,4,Chui oblast
+ID0000084,Male,12/24/1990,Inc0000200,4/29/2023,verbal violence,Female,1/18/1981,Partner,No injury,Community Service,7,Naryn oblast
+ID0000085,Male,9/16/1976,Inc0000201,6/9/2023,verbal violence,Female,5/1/1984,Sibling,Hospitalized,Community Service,5,Jalal-Abat oblast
+ID0000086,Male,5/17/1961,Inc0000202,6/25/2022,verbal violence,Female,6/14/1961,Parent,No injury,Released,6,Osh oblast
+ID0000086,Male,11/28/1994,Inc0000203,3/2/2024,physical violence,Female,11/17/1975,Spouse,No injury,Community Service,9,Bishkek city
+ID0000087,Male,5/2/1980,Inc0000204,1/16/2023,sexual violence,Female,5/8/1991,Parent,Injured,Community Service,5,Bishkek city
+ID0000087,Male,11/22/1964,Inc0000205,12/11/2021,physical violence,Female,7/10/1978,Ex-spouse,Hospitalized,Released,8,Bishkek city
+ID0000087,Male,7/28/1960,Inc0000206,2/25/2019,psychological violence,Female,11/10/2000,Sibling,No injury,Community Service,5,Jalal-Abat oblast
+ID0000088,Male,1/5/1982,Inc0000207,5/5/2018,physical violence,Female,8/1/1984,Ex-spouse,Injured,Arrested,1,Chui oblast
+ID0000088,Male,5/5/1987,Inc0000208,10/17/2022,psychological violence,Female,10/13/1987,Ex-spouse,Hospitalized,Community Service,8,Bishkek city
+ID0000089,Male,11/2/1965,Inc0000209,1/15/2018,psychological violence,Female,12/2/1969,Partner,No injury,Community Service,4,Chui oblast
+ID0000089,Male,5/9/1979,Inc0000210,12/20/2021,sexual violence,Female,1/10/1961,Ex-spouse,No injury,Released,5,Osh city
+ID0000089,Male,1/25/1971,Inc0000211,1/7/2023,sexual violence,Female,4/20/1998,Spouse,Hospitalized,Community Service,5,Yssyk-Kul oblast
+ID0000090,Male,5/23/1986,Inc0000212,7/24/2023,psychological violence,Female,12/8/1986,Ex-spouse,Injured,Released,2,Bishkek city
+ID0000090,Male,9/8/1976,Inc0000213,7/3/2022,verbal violence,Female,1/8/1988,Parent,Hospitalized,Arrested,1,Bishkek city
+ID0000090,Male,3/21/1997,Inc0000214,12/19/2023,physical violence,Female,1/29/1976,Partner,Hospitalized,Arrested,4,Bishkek city
+ID0000090,Male,11/22/1992,Inc0000215,10/16/2023,verbal violence,Female,10/13/2000,Ex-spouse,Hospitalized,Released,2,Chui oblast
+ID0000091,Male,2/16/1978,Inc0000216,10/2/2019,physical violence,Female,8/17/1963,Ex-spouse,Hospitalized,Arrested,7,Bishkek city
+ID0000092,Male,12/15/1991,Inc0000217,3/18/2018,physical violence,Female,8/15/1998,Parent,No injury,Released,4,Bishkek city
+ID0000092,Male,9/11/1993,Inc0000218,1/19/2021,psychological violence,Female,12/14/1994,Parent,Hospitalized,Released,1,Talas oblast
+ID0000092,Male,9/11/1987,Inc0000219,10/30/2018,psychological violence,Female,7/2/1993,Ex-spouse,Injured,Released,3,Bishkek city
+ID0000093,Male,6/26/1965,Inc0000220,11/13/2020,verbal violence,Female,9/24/1994,Sibling,No injury,Community Service,2,Osh oblast
+ID0000093,Male,10/12/1976,Inc0000221,7/21/2019,verbal violence,Female,7/19/1992,Spouse,Hospitalized,Community Service,9,Chui oblast
+ID0000093,Male,9/16/1964,Inc0000222,2/27/2022,psychological violence,Female,6/2/1964,Parent,Hospitalized,Released,2,Bishkek city
+ID0000094,Male,3/10/1974,Inc0000223,10/26/2022,sexual violence,Female,11/27/1988,Spouse,Hospitalized,Released,6,Osh oblast
+ID0000095,Male,4/8/1981,Inc0000224,11/25/2022,physical violence,Female,6/26/1960,Sibling,Injured,Community Service,8,Osh oblast
+ID0000095,Male,7/28/1989,Inc0000225,12/29/2022,physical violence,Female,3/15/1965,Spouse,Injured,Arrested,3,Bishkek city
+ID0000096,Female,7/16/1983,Inc0000226,5/27/2019,sexual violence,Female,12/7/1979,Sibling,Injured,Arrested,2,Batken oblast
+ID0000097,Male,5/19/1968,Inc0000227,2/8/2022,verbal violence,Female,8/1/1967,Spouse,Injured,Released,1,Bishkek city
+ID0000097,Female,1/12/1976,Inc0000228,5/3/2023,sexual violence,Female,4/22/1986,Spouse,No injury,Released,3,Bishkek city
+ID0000097,Male,7/24/1990,Inc0000229,5/25/2018,psychological violence,Female,2/19/1971,Partner,Hospitalized,Community Service,8,Bishkek city
+ID0000097,Female,8/22/1976,Inc0000230,6/24/2022,sexual violence,Female,6/8/1965,Partner,Hospitalized,Arrested,2,Osh oblast
+ID0000098,Male,12/9/1985,Inc0000231,4/22/2018,physical violence,Female,4/22/1986,Spouse,Injured,Arrested,8,Chui oblast
+ID0000098,Male,5/31/1975,Inc0000232,6/14/2023,sexual violence,Female,4/24/1985,Ex-spouse,Injured,Community Service,7,Bishkek city
+ID0000098,Female,2/19/1980,Inc0000233,10/18/2021,verbal violence,Female,8/4/1969,Partner,Hospitalized,Community Service,3,Yssyk-Kul oblast
+ID0000098,Male,7/9/1986,Inc0000234,5/24/2020,sexual violence,Female,7/23/1967,Parent,Injured,Released,4,Naryn oblast
+ID0000099,Male,9/1/1997,Inc0000235,2/8/2020,sexual violence,Female,11/15/1966,Ex-spouse,Hospitalized,Arrested,8,Batken oblast
+ID0000099,Male,6/4/1977,Inc0000236,6/11/2019,verbal violence,Female,4/26/1969,Ex-spouse,Hospitalized,Community Service,3,Osh city
+ID0000100,Male,3/13/1966,Inc0000237,12/28/2019,psychological violence,Female,6/11/1991,Partner,Injured,Community Service,2,Chui oblast
+ID0000100,Male,8/25/1998,Inc0000238,3/27/2021,psychological violence,Female,10/15/1980,Ex-spouse,No injury,Community Service,4,Yssyk-Kul oblast
+ID0000100,Male,9/14/1979,Inc0000239,6/9/2022,sexual violence,Female,12/7/1984,Ex-spouse,Hospitalized,Community Service,6,Naryn oblast
+ID0000101,Male,2/8/1990,Inc0000240,5/27/2020,physical violence,Female,10/15/1960,Parent,No injury,Arrested,8,Osh oblast
+ID0000102,Male,9/13/1995,Inc0000241,2/3/2018,sexual violence,Female,3/9/1961,Sibling,Hospitalized,Arrested,2,Chui oblast
+ID0000102,Male,10/19/1964,Inc0000242,12/21/2019,psychological violence,Female,7/26/1981,Parent,Injured,Released,3,Jalal-Abat oblast
+ID0000103,Male,4/29/1980,Inc0000243,2/24/2021,verbal violence,Female,5/31/1971,Spouse,Injured,Released,3,Bishkek city
+ID0000103,Male,1/27/1989,Inc0000244,2/3/2022,sexual violence,Male,12/4/1988,Sibling,Hospitalized,Arrested,2,Bishkek city
+ID0000103,Male,8/8/1999,Inc0000245,5/29/2024,physical violence,Female,11/28/1972,Partner,Hospitalized,Arrested,2,Chui oblast
+ID0000103,Male,4/17/1990,Inc0000246,7/24/2022,physical violence,Female,7/17/1962,Parent,Injured,Arrested,7,Osh oblast
+ID0000104,Male,8/20/1998,Inc0000247,7/25/2018,verbal violence,Female,5/14/1971,Parent,Injured,Released,1,Yssyk-Kul oblast
+ID0000105,Female,10/5/1994,Inc0000248,3/7/2023,physical violence,Female,6/25/1995,Sibling,Injured,Released,5,Chui oblast
+ID0000105,Male,4/4/1994,Inc0000249,6/21/2018,verbal violence,Female,5/18/1978,Spouse,Hospitalized,Released,6,Chui oblast
+ID0000105,Male,9/12/1972,Inc0000250,9/7/2019,sexual violence,Female,5/21/1984,Sibling,Hospitalized,Community Service,2,Jalal-Abat oblast
+ID0000106,Male,3/14/1983,Inc0000251,12/4/2018,physical violence,Female,5/12/1988,Ex-spouse,Injured,Released,8,Osh oblast
+ID0000106,Male,8/6/1962,Inc0000252,11/27/2019,sexual violence,Female,8/1/2000,Partner,No injury,Community Service,7,Chui oblast
+ID0000107,Male,1/6/1965,Inc0000253,10/12/2022,physical violence,Female,7/14/1987,Sibling,Hospitalized,Released,6,Chui oblast
+ID0000107,Male,12/19/1981,Inc0000254,12/23/2018,sexual violence,Female,1/7/1972,Partner,Injured,Released,10,Osh oblast
+ID0000108,Female,8/2/1988,Inc0000255,10/3/2021,physical violence,Female,6/15/1993,Parent,Injured,Arrested,3,Jalal-Abat oblast
+ID0000109,Male,9/12/1986,Inc0000256,3/30/2023,physical violence,Female,6/12/1977,Ex-spouse,Hospitalized,Released,8,Yssyk-Kul oblast
+ID0000110,Male,7/11/1961,Inc0000257,5/31/2020,verbal violence,Female,9/28/1965,Spouse,Hospitalized,Community Service,2,Osh oblast
+ID0000110,Male,4/29/1997,Inc0000258,9/6/2021,verbal violence,Female,1/10/1995,Spouse,Hospitalized,Community Service,3,Bishkek city
+ID0000111,Male,6/19/1996,Inc0000259,6/28/2020,sexual violence,Female,11/21/1974,Ex-spouse,Hospitalized,Released,3,Osh city
+ID0000111,Male,4/27/1966,Inc0000260,5/7/2020,psychological violence,Female,3/24/1991,Sibling,Injured,Community Service,6,Talas oblast
+ID0000112,Male,12/2/1972,Inc0000261,6/30/2021,psychological violence,Female,12/7/2000,Sibling,Injured,Community Service,5,Bishkek city
+ID0000112,Male,4/16/1981,Inc0000262,9/11/2022,psychological violence,Female,7/18/1961,Partner,Hospitalized,Arrested,4,Bishkek city
+ID0000112,Male,4/12/1964,Inc0000263,5/27/2021,psychological violence,Female,9/17/1964,Ex-spouse,No injury,Released,1,Naryn oblast
+ID0000112,Male,4/29/1984,Inc0000264,3/29/2021,psychological violence,Female,5/22/1994,Partner,Hospitalized,Released,1,Yssyk-Kul oblast
+ID0000113,Male,4/2/1999,Inc0000265,5/30/2022,psychological violence,Female,1/30/1991,Spouse,Hospitalized,Arrested,4,Osh city
+ID0000113,Male,10/26/1974,Inc0000266,1/1/2022,physical violence,Female,8/12/1984,Spouse,Injured,Released,2,Osh oblast
+ID0000113,Male,10/12/1973,Inc0000267,8/31/2021,physical violence,Female,5/7/1985,Parent,Injured,Arrested,5,Bishkek city
+ID0000113,Male,8/21/1975,Inc0000268,11/21/2021,verbal violence,Male,3/22/1983,Sibling,Hospitalized,Community Service,8,Bishkek city
+ID0000114,Male,9/14/1980,Inc0000269,5/25/2022,sexual violence,Female,3/10/1973,Ex-spouse,No injury,Released,10,Bishkek city
+ID0000114,Female,4/4/1962,Inc0000270,5/20/2023,physical violence,Female,10/9/1963,Ex-spouse,Hospitalized,Arrested,5,Osh city
+ID0000115,Male,4/26/1984,Inc0000271,3/17/2018,physical violence,Female,1/2/1960,Sibling,No injury,Arrested,4,Bishkek city
+ID0000115,Female,1/15/1983,Inc0000272,7/3/2018,sexual violence,Female,4/2/1960,Spouse,Injured,Arrested,5,Chui oblast
+ID0000116,Male,7/15/1987,Inc0000273,2/6/2020,sexual violence,Female,7/11/1973,Sibling,Hospitalized,Released,1,Bishkek city
+ID0000117,Female,1/11/1978,Inc0000274,7/21/2023,verbal violence,Female,9/6/2000,Sibling,Hospitalized,Released,3,Bishkek city
+ID0000117,Male,7/26/1979,Inc0000275,3/18/2018,sexual violence,Female,2/18/1983,Parent,Hospitalized,Community Service,6,Bishkek city
+ID0000118,Male,6/26/1983,Inc0000276,7/10/2019,sexual violence,Female,4/2/1973,Ex-spouse,Hospitalized,Released,4,Osh oblast
+ID0000119,Male,1/24/1964,Inc0000277,4/18/2018,sexual violence,Female,10/17/1987,Ex-spouse,Injured,Arrested,3,Bishkek city
+ID0000119,Male,7/11/1964,Inc0000278,11/9/2019,physical violence,Female,8/15/1997,Spouse,No injury,Arrested,3,Yssyk-Kul oblast
+ID0000120,Male,9/13/1987,Inc0000279,12/12/2021,verbal violence,Female,5/22/1989,Partner,Hospitalized,Released,4,Talas oblast
+ID0000120,Male,7/12/2000,Inc0000280,11/19/2020,psychological violence,Female,8/3/1988,Partner,No injury,Community Service,6,Bishkek city
+ID0000120,Male,8/29/1990,Inc0000281,2/19/2018,sexual violence,Female,12/6/1987,Parent,No injury,Arrested,4,Bishkek city
+ID0000121,Female,5/25/1986,Inc0000282,10/11/2023,sexual violence,Female,5/22/1984,Partner,No injury,Community Service,6,Bishkek city
+ID0000122,Male,3/10/1999,Inc0000283,5/26/2024,sexual violence,Female,3/3/1981,Spouse,Injured,Community Service,4,Jalal-Abat oblast
+ID0000122,Male,8/12/1968,Inc0000284,1/16/2022,verbal violence,Female,8/17/1960,Ex-spouse,No injury,Community Service,4,Bishkek city
+ID0000122,Male,5/17/1984,Inc0000285,1/2/2021,sexual violence,Female,12/10/1977,Spouse,Injured,Arrested,2,Chui oblast
+ID0000123,Male,11/10/1964,Inc0000286,8/8/2018,sexual violence,Female,11/23/1965,Partner,Hospitalized,Arrested,1,Bishkek city
+ID0000123,Male,11/8/1971,Inc0000287,11/29/2018,verbal violence,Female,4/25/1988,Parent,Hospitalized,Community Service,3,Bishkek city
+ID0000123,Male,10/14/1975,Inc0000288,11/10/2020,psychological violence,Female,11/12/1972,Partner,No injury,Arrested,3,Chui oblast
+ID0000124,Female,7/21/1991,Inc0000289,4/26/2024,physical violence,Female,2/12/1962,Ex-spouse,Hospitalized,Community Service,4,Chui oblast
+ID0000125,Male,1/21/1990,Inc0000290,10/5/2019,verbal violence,Female,7/29/2000,Parent,No injury,Released,1,Bishkek city
+ID0000125,Male,1/5/1971,Inc0000291,7/16/2024,physical violence,Female,2/14/1967,Sibling,Injured,Arrested,9,Chui oblast
+ID0000125,Male,2/24/1987,Inc0000292,3/4/2021,psychological violence,Female,12/24/1971,Partner,No injury,Community Service,7,Jalal-Abat oblast
+ID0000126,Male,8/11/1960,Inc0000293,12/12/2023,physical violence,Female,3/30/1987,Partner,No injury,Community Service,1,Bishkek city
+ID0000126,Male,10/15/1985,Inc0000294,10/11/2020,sexual violence,Female,12/26/1965,Ex-spouse,No injury,Arrested,8,Bishkek city
+ID0000126,Male,11/19/1990,Inc0000295,3/18/2023,physical violence,Female,8/19/1968,Sibling,No injury,Released,4,Chui oblast
+ID0000127,Male,8/19/1994,Inc0000296,5/23/2021,sexual violence,Female,6/16/1975,Ex-spouse,Hospitalized,Community Service,4,Jalal-Abat oblast
+ID0000128,Male,7/26/1983,Inc0000297,5/1/2023,psychological violence,Female,8/25/1990,Parent,Injured,Community Service,5,Chui oblast
+ID0000128,Male,11/20/1996,Inc0000298,6/6/2022,sexual violence,Female,8/20/1963,Partner,Hospitalized,Community Service,9,Bishkek city
+ID0000128,Male,12/29/1984,Inc0000299,6/13/2019,verbal violence,Female,8/20/1961,Parent,Hospitalized,Community Service,4,Bishkek city
+ID0000128,Male,6/8/1969,Inc0000300,6/9/2020,sexual violence,Female,4/15/1993,Ex-spouse,No injury,Community Service,7,Yssyk-Kul oblast
+ID0000129,Male,12/11/1982,Inc0000301,6/10/2018,sexual violence,Female,8/13/1993,Parent,Injured,Released,4,Yssyk-Kul oblast
+ID0000129,Female,2/1/1981,Inc0000302,9/4/2022,psychological violence,Female,3/7/1960,Ex-spouse,No injury,Community Service,6,Yssyk-Kul oblast
+ID0000129,Male,4/23/1963,Inc0000303,4/27/2022,physical violence,Female,5/24/1975,Partner,Hospitalized,Arrested,7,Jalal-Abat oblast
+ID0000129,Male,5/31/1967,Inc0000304,1/20/2023,physical violence,Female,6/3/1962,Ex-spouse,No injury,Community Service,9,Batken oblast
+ID0000130,Male,2/3/1985,Inc0000305,5/20/2022,verbal violence,Female,9/20/1960,Partner,Injured,Community Service,2,Chui oblast
+ID0000130,Male,12/28/1978,Inc0000306,8/25/2019,physical violence,Female,10/26/1985,Spouse,Injured,Community Service,5,Bishkek city
+ID0000130,Male,5/18/1978,Inc0000307,6/2/2019,physical violence,Female,4/8/1987,Partner,Injured,Community Service,8,Chui oblast
+ID0000130,Male,7/21/1973,Inc0000308,5/28/2022,sexual violence,Female,3/8/1991,Parent,Injured,Released,7,Chui oblast
+ID0000131,Male,3/8/1964,Inc0000309,3/28/2020,verbal violence,Female,6/15/1975,Ex-spouse,Injured,Community Service,3,Yssyk-Kul oblast
+ID0000131,Male,4/7/1975,Inc0000310,2/9/2021,verbal violence,Female,11/23/1968,Spouse,Injured,Community Service,4,Chui oblast
+ID0000132,Male,3/28/1962,Inc0000311,5/20/2018,physical violence,Female,3/17/1988,Ex-spouse,No injury,Community Service,4,Bishkek city
+ID0000132,Male,8/24/1970,Inc0000312,2/26/2022,physical violence,Female,11/28/1984,Parent,No injury,Released,4,Yssyk-Kul oblast
+ID0000132,Male,5/17/1988,Inc0000313,4/18/2024,physical violence,Female,9/10/1960,Ex-spouse,Injured,Community Service,9,Bishkek city
+ID0000133,Male,2/4/1965,Inc0000314,6/6/2019,verbal violence,Female,7/10/1975,Spouse,Injured,Released,8,Osh oblast
+ID0000133,Female,8/16/1969,Inc0000315,12/22/2023,psychological violence,Female,4/9/1992,Spouse,No injury,Released,1,Chui oblast
+ID0000133,Male,10/25/1976,Inc0000316,5/13/2020,verbal violence,Female,7/12/1976,Sibling,No injury,Arrested,8,Bishkek city
+ID0000133,Male,9/28/1962,Inc0000317,7/2/2022,psychological violence,Female,12/1/1973,Ex-spouse,Hospitalized,Released,10,Jalal-Abat oblast
+ID0000134,Male,1/24/1995,Inc0000318,10/6/2018,psychological violence,Female,2/8/1971,Sibling,Injured,Arrested,6,Chui oblast
+ID0000134,Male,10/10/1961,Inc0000319,12/7/2018,verbal violence,Female,4/4/1990,Partner,Injured,Community Service,4,Yssyk-Kul oblast
+ID0000134,Male,6/30/1987,Inc0000320,2/27/2021,psychological violence,Male,8/1/1984,Spouse,Injured,Community Service,6,Osh oblast
+ID0000134,Male,9/22/1996,Inc0000321,4/18/2019,physical violence,Female,4/27/1978,Parent,No injury,Released,3,Yssyk-Kul oblast
+ID0000135,Male,9/4/1961,Inc0000322,6/25/2020,sexual violence,Female,11/18/1977,Spouse,Injured,Community Service,9,Jalal-Abat oblast
+ID0000135,Male,5/16/1971,Inc0000323,7/29/2021,verbal violence,Female,7/19/1970,Partner,No injury,Released,1,Bishkek city
+ID0000136,Male,11/10/1973,Inc0000324,11/27/2019,verbal violence,Female,9/7/1980,Ex-spouse,Hospitalized,Arrested,6,Jalal-Abat oblast
+ID0000136,Male,5/14/1964,Inc0000325,6/19/2019,sexual violence,Female,4/8/1992,Sibling,Hospitalized,Released,5,Chui oblast
+ID0000137,Male,1/21/1981,Inc0000326,8/11/2023,verbal violence,Female,10/29/1991,Sibling,Hospitalized,Community Service,7,Yssyk-Kul oblast
+ID0000137,Male,1/17/1981,Inc0000327,8/3/2022,psychological violence,Female,2/13/2000,Sibling,Injured,Arrested,10,Chui oblast
+ID0000137,Female,2/7/1971,Inc0000328,1/8/2020,psychological violence,Female,4/18/1963,Partner,Hospitalized,Arrested,4,Osh oblast
+ID0000137,Male,5/9/1971,Inc0000329,4/13/2023,physical violence,Female,8/30/1994,Partner,Hospitalized,Community Service,1,Chui oblast
+ID0000138,Male,11/29/1990,Inc0000330,2/9/2019,sexual violence,Male,5/15/1962,Ex-spouse,No injury,Community Service,8,Chui oblast
+ID0000139,Male,12/8/1964,Inc0000331,9/30/2023,psychological violence,Female,3/3/1995,Spouse,No injury,Released,9,Osh city
+ID0000139,Male,9/10/1980,Inc0000332,5/9/2021,psychological violence,Female,7/8/1999,Ex-spouse,No injury,Arrested,1,Chui oblast
+ID0000139,Male,11/21/1988,Inc0000333,2/4/2019,sexual violence,Female,7/15/1986,Parent,Injured,Arrested,1,Osh oblast
+ID0000140,Male,7/30/1989,Inc0000334,10/13/2021,verbal violence,Female,5/13/1982,Sibling,Injured,Community Service,4,Chui oblast
+ID0000141,Male,9/24/1964,Inc0000335,11/1/2023,psychological violence,Female,6/28/1981,Spouse,Hospitalized,Arrested,10,Jalal-Abat oblast
+ID0000142,Male,8/3/1990,Inc0000336,12/17/2023,physical violence,Female,7/25/1997,Parent,Hospitalized,Arrested,5,Talas oblast
+ID0000142,Male,3/16/1995,Inc0000337,1/28/2020,sexual violence,Female,9/4/2000,Ex-spouse,Injured,Released,7,Yssyk-Kul oblast
+ID0000142,Male,9/20/1978,Inc0000338,9/22/2018,psychological violence,Female,6/2/1996,Partner,No injury,Community Service,3,Naryn oblast
+ID0000143,Male,10/18/1992,Inc0000339,3/10/2018,sexual violence,Female,6/21/1979,Parent,No injury,Community Service,10,Yssyk-Kul oblast
+ID0000144,Male,12/19/1993,Inc0000340,7/4/2022,verbal violence,Female,6/21/1990,Sibling,Hospitalized,Community Service,10,Chui oblast
+ID0000144,Male,4/3/1999,Inc0000341,1/23/2022,sexual violence,Female,11/3/1994,Spouse,Injured,Arrested,5,Jalal-Abat oblast
+ID0000145,Male,12/20/2000,Inc0000342,9/13/2022,psychological violence,Female,10/31/1967,Parent,Injured,Arrested,2,Jalal-Abat oblast
+ID0000145,Male,6/23/1989,Inc0000343,1/8/2022,sexual violence,Female,12/20/1962,Parent,Hospitalized,Released,3,Batken oblast
+ID0000146,Male,3/22/1988,Inc0000344,2/9/2021,physical violence,Female,9/14/1978,Partner,No injury,Community Service,9,Jalal-Abat oblast
+ID0000147,Male,8/21/1991,Inc0000345,2/13/2023,physical violence,Female,3/19/1974,Spouse,No injury,Arrested,2,Batken oblast
+ID0000147,Male,7/31/1970,Inc0000346,3/17/2023,verbal violence,Female,9/9/1967,Ex-spouse,Injured,Community Service,6,Naryn oblast
+ID0000148,Male,6/12/1969,Inc0000347,5/30/2020,sexual violence,Female,9/13/1977,Sibling,Injured,Released,4,Jalal-Abat oblast
+ID0000149,Male,5/30/1993,Inc0000348,5/4/2024,sexual violence,Female,6/25/1964,Spouse,Injured,Community Service,10,Bishkek city
+ID0000149,Female,6/6/1975,Inc0000349,6/22/2021,physical violence,Female,2/12/1968,Sibling,Hospitalized,Community Service,6,Osh oblast
+ID0000149,Female,6/4/1979,Inc0000350,6/9/2019,sexual violence,Female,1/11/1982,Parent,Injured,Released,1,Bishkek city
+ID0000149,Male,12/29/1976,Inc0000351,11/25/2020,sexual violence,Female,6/14/1963,Spouse,Injured,Released,2,Chui oblast
+ID0000150,Female,7/15/1971,Inc0000352,3/28/2021,physical violence,Female,2/3/1960,Ex-spouse,Hospitalized,Community Service,2,Batken oblast
+ID0000151,Male,7/2/1989,Inc0000353,8/5/2018,physical violence,Female,8/11/1973,Spouse,No injury,Community Service,9,Talas oblast
+ID0000152,Male,11/25/1977,Inc0000354,11/15/2020,verbal violence,Female,8/30/1996,Partner,No injury,Released,3,Bishkek city
+ID0000152,Male,10/3/1980,Inc0000355,3/25/2022,verbal violence,Female,8/4/1984,Ex-spouse,Injured,Community Service,7,Jalal-Abat oblast
+ID0000153,Male,10/12/1963,Inc0000356,8/12/2020,psychological violence,Female,8/17/1982,Parent,Hospitalized,Released,8,Chui oblast
+ID0000153,Male,4/8/1983,Inc0000357,2/22/2021,psychological violence,Female,5/5/1984,Spouse,No injury,Released,5,Chui oblast
+ID0000153,Male,10/23/1981,Inc0000358,11/10/2018,sexual violence,Female,6/5/1977,Ex-spouse,Hospitalized,Released,5,Osh city
+ID0000154,Male,1/17/1966,Inc0000359,4/12/2020,sexual violence,Female,4/21/1995,Sibling,Hospitalized,Community Service,2,Jalal-Abat oblast
+ID0000155,Male,1/2/1965,Inc0000360,11/9/2022,sexual violence,Female,2/12/1976,Sibling,Hospitalized,Released,10,Bishkek city
+ID0000156,Male,11/4/1981,Inc0000361,5/1/2020,physical violence,Female,8/24/1983,Parent,Hospitalized,Released,5,Bishkek city
+ID0000156,Male,1/10/1983,Inc0000362,12/6/2018,physical violence,Female,11/3/1981,Parent,No injury,Community Service,8,Chui oblast
+ID0000157,Male,3/2/1990,Inc0000363,5/4/2021,psychological violence,Female,10/2/1994,Sibling,Injured,Released,8,Bishkek city
+ID0000157,Male,12/28/1982,Inc0000364,3/27/2021,physical violence,Female,5/15/1972,Spouse,No injury,Community Service,4,Yssyk-Kul oblast
+ID0000157,Male,10/4/1978,Inc0000365,9/26/2022,verbal violence,Female,3/9/1978,Spouse,Hospitalized,Arrested,7,Bishkek city
+ID0000158,Male,4/20/1975,Inc0000366,4/2/2019,psychological violence,Female,4/6/2000,Ex-spouse,No injury,Community Service,10,Yssyk-Kul oblast
+ID0000158,Male,4/9/1993,Inc0000367,8/23/2022,psychological violence,Female,9/7/1994,Sibling,Injured,Arrested,8,Yssyk-Kul oblast
+ID0000158,Male,7/16/1994,Inc0000368,9/8/2020,physical violence,Male,3/25/1971,Sibling,No injury,Released,7,Bishkek city
+ID0000158,Male,3/4/2000,Inc0000369,12/28/2019,physical violence,Female,1/18/1968,Partner,No injury,Community Service,4,Bishkek city
+ID0000159,Male,9/14/1993,Inc0000370,8/12/2023,physical violence,Female,3/14/1963,Ex-spouse,Injured,Released,4,Chui oblast
+ID0000160,Male,10/11/1987,Inc0000371,6/30/2018,sexual violence,Female,7/17/1983,Partner,No injury,Community Service,9,Talas oblast
+ID0000160,Male,8/6/1965,Inc0000372,7/29/2020,sexual violence,Female,5/19/1967,Spouse,Injured,Released,5,Bishkek city
+ID0000161,Male,12/6/1985,Inc0000373,5/2/2024,sexual violence,Female,6/22/1960,Ex-spouse,Hospitalized,Released,10,Batken oblast
+ID0000162,Male,12/19/1993,Inc0000374,11/28/2022,psychological violence,Female,8/12/1965,Partner,Hospitalized,Community Service,6,Jalal-Abat oblast
+ID0000162,Male,7/27/1960,Inc0000375,6/15/2020,verbal violence,Female,6/15/1995,Spouse,Injured,Released,2,Yssyk-Kul oblast
+ID0000163,Male,5/26/1986,Inc0000376,4/6/2022,physical violence,Female,11/2/1970,Parent,Hospitalized,Arrested,9,Chui oblast
+ID0000163,Male,2/21/1997,Inc0000377,8/10/2022,sexual violence,Female,1/15/1981,Parent,Hospitalized,Arrested,5,Chui oblast
+ID0000164,Male,2/21/1964,Inc0000378,2/13/2021,psychological violence,Female,10/4/1974,Spouse,Injured,Arrested,2,Talas oblast
+ID0000164,Male,10/19/1995,Inc0000379,10/1/2018,sexual violence,Female,11/15/1964,Ex-spouse,No injury,Community Service,3,Chui oblast
+ID0000164,Male,11/5/1990,Inc0000380,6/20/2022,psychological violence,Female,7/23/1975,Partner,No injury,Arrested,7,Chui oblast
+ID0000165,Male,11/1/1984,Inc0000381,1/17/2021,verbal violence,Female,8/10/1986,Sibling,Hospitalized,Arrested,9,Jalal-Abat oblast
+ID0000165,Male,5/25/1983,Inc0000382,11/19/2019,verbal violence,Female,12/8/2000,Partner,Hospitalized,Released,8,Yssyk-Kul oblast
+ID0000165,Male,3/14/1965,Inc0000383,9/12/2021,psychological violence,Female,9/27/1999,Partner,Hospitalized,Community Service,1,Bishkek city
+ID0000166,Female,1/15/1984,Inc0000384,4/11/2021,sexual violence,Female,7/28/1995,Ex-spouse,Hospitalized,Community Service,4,Chui oblast
+ID0000166,Male,11/21/1988,Inc0000385,11/6/2019,physical violence,Female,2/24/1964,Spouse,Injured,Community Service,7,Jalal-Abat oblast
+ID0000166,Male,1/28/1974,Inc0000386,3/28/2021,sexual violence,Female,12/6/1971,Parent,No injury,Community Service,10,Yssyk-Kul oblast
+ID0000167,Male,8/1/1967,Inc0000387,6/11/2018,verbal violence,Female,10/8/2000,Spouse,Hospitalized,Released,10,Osh oblast
+ID0000167,Male,6/18/1974,Inc0000388,6/25/2020,sexual violence,Female,10/22/1968,Partner,Injured,Released,5,Chui oblast
+ID0000168,Male,3/28/1964,Inc0000389,12/27/2023,sexual violence,Female,5/13/1965,Partner,Injured,Community Service,1,Osh oblast
+ID0000168,Male,7/17/1986,Inc0000390,4/2/2022,psychological violence,Female,7/9/1969,Sibling,Injured,Arrested,1,Naryn oblast
+ID0000169,Male,4/26/1995,Inc0000391,5/11/2018,verbal violence,Female,12/2/1984,Sibling,No injury,Community Service,9,Osh oblast
+ID0000170,Male,7/15/1991,Inc0000392,5/27/2019,verbal violence,Female,4/17/1982,Parent,Hospitalized,Arrested,5,Chui oblast
+ID0000170,Male,12/30/1963,Inc0000393,3/5/2022,physical violence,Female,5/1/1976,Partner,Injured,Community Service,2,Osh oblast
+ID0000170,Male,5/1/1996,Inc0000394,8/31/2019,physical violence,Male,3/3/2000,Ex-spouse,Hospitalized,Released,2,Bishkek city
+ID0000171,Male,10/16/1998,Inc0000395,5/14/2023,psychological violence,Female,5/27/1979,Ex-spouse,Hospitalized,Community Service,8,Jalal-Abat oblast
+ID0000171,Male,1/12/1974,Inc0000396,2/7/2022,physical violence,Female,1/1/1989,Partner,Hospitalized,Released,6,Chui oblast
+ID0000172,Male,2/26/1989,Inc0000397,8/25/2023,psychological violence,Female,5/7/1962,Parent,Hospitalized,Released,10,Yssyk-Kul oblast
+ID0000172,Male,1/5/1964,Inc0000398,2/4/2024,sexual violence,Female,6/21/1994,Partner,No injury,Released,10,Bishkek city
+ID0000173,Male,1/8/1975,Inc0000399,10/6/2023,psychological violence,Female,7/23/1966,Sibling,No injury,Arrested,6,Osh oblast
+ID0000173,Male,9/26/1985,Inc0000400,9/21/2020,sexual violence,Female,4/20/1966,Sibling,Hospitalized,Released,4,Chui oblast
+ID0000173,Male,5/3/1978,Inc0000401,9/24/2018,verbal violence,Female,1/5/1981,Partner,Hospitalized,Arrested,4,Batken oblast
+ID0000173,Male,7/12/1980,Inc0000402,3/12/2024,psychological violence,Female,10/16/1965,Ex-spouse,Injured,Community Service,10,Jalal-Abat oblast
+ID0000174,Female,7/15/1982,Inc0000403,3/7/2023,sexual violence,Female,5/12/1990,Parent,No injury,Released,6,Bishkek city
+ID0000175,Male,12/15/1974,Inc0000404,9/8/2018,physical violence,Female,5/14/1999,Spouse,Hospitalized,Released,8,Batken oblast
+ID0000176,Male,9/25/1985,Inc0000405,12/30/2022,psychological violence,Female,6/19/1977,Sibling,No injury,Released,7,Batken oblast
+ID0000176,Male,3/11/1960,Inc0000406,11/13/2020,verbal violence,Female,4/22/1984,Partner,No injury,Released,2,Bishkek city
+ID0000177,Male,3/8/1981,Inc0000407,7/9/2019,psychological violence,Female,6/22/1996,Parent,No injury,Community Service,10,Yssyk-Kul oblast
+ID0000178,Male,7/1/1986,Inc0000408,5/23/2019,physical violence,Female,9/5/1979,Sibling,No injury,Arrested,9,Bishkek city
+ID0000178,Male,5/26/1980,Inc0000409,8/27/2018,physical violence,Female,1/8/1989,Sibling,No injury,Released,9,Chui oblast
+ID0000178,Female,6/20/1980,Inc0000410,2/2/2024,verbal violence,Female,6/15/1964,Spouse,Injured,Released,2,Chui oblast
+ID0000178,Male,4/30/1990,Inc0000411,3/28/2023,physical violence,Female,1/5/1975,Spouse,Injured,Arrested,9,Yssyk-Kul oblast
+ID0000179,Male,10/11/1972,Inc0000412,8/8/2023,sexual violence,Female,3/21/1995,Partner,Hospitalized,Community Service,10,Bishkek city
+ID0000179,Male,9/8/1992,Inc0000413,5/9/2019,physical violence,Female,3/3/1975,Partner,No injury,Arrested,10,Osh oblast
+ID0000179,Male,7/27/1970,Inc0000414,12/17/2019,physical violence,Female,12/1/1971,Parent,No injury,Community Service,3,Chui oblast
+ID0000179,Male,2/14/1985,Inc0000415,2/4/2018,sexual violence,Female,5/16/1980,Spouse,Hospitalized,Released,2,Chui oblast
+ID0000180,Male,12/30/1996,Inc0000416,5/14/2020,sexual violence,Female,2/19/1976,Sibling,No injury,Arrested,5,Bishkek city
+ID0000180,Male,10/28/1980,Inc0000417,1/5/2020,verbal violence,Female,9/17/1992,Parent,Injured,Released,7,Bishkek city
+ID0000180,Male,2/4/1960,Inc0000418,11/12/2019,verbal violence,Female,9/30/1968,Ex-spouse,Hospitalized,Community Service,1,Bishkek city
+ID0000180,Male,6/9/1995,Inc0000419,6/4/2024,sexual violence,Female,3/19/1986,Sibling,No injury,Arrested,5,Osh oblast
+ID0000181,Female,5/28/2000,Inc0000420,8/11/2021,physical violence,Female,10/20/1994,Partner,Hospitalized,Arrested,2,Bishkek city
+ID0000182,Male,4/7/1994,Inc0000421,7/19/2018,verbal violence,Female,3/27/1990,Parent,No injury,Arrested,10,Bishkek city
+ID0000182,Male,3/29/1966,Inc0000422,12/30/2019,psychological violence,Female,10/3/1985,Ex-spouse,Injured,Community Service,5,Bishkek city
+ID0000182,Male,7/22/1990,Inc0000423,9/14/2018,physical violence,Female,4/8/1970,Ex-spouse,No injury,Community Service,5,Chui oblast
+ID0000182,Male,1/30/1974,Inc0000424,9/28/2023,physical violence,Female,6/12/1985,Sibling,Injured,Community Service,6,Bishkek city
+ID0000183,Male,10/26/1987,Inc0000425,11/20/2021,psychological violence,Female,1/14/1994,Partner,Injured,Arrested,5,Bishkek city
+ID0000183,Male,10/13/1986,Inc0000426,1/25/2019,psychological violence,Female,3/13/1985,Parent,No injury,Arrested,8,Bishkek city
+ID0000184,Male,10/21/1985,Inc0000427,6/6/2018,psychological violence,Female,6/11/1966,Spouse,No injury,Released,2,Yssyk-Kul oblast
+ID0000185,Female,8/16/1997,Inc0000428,5/14/2018,physical violence,Female,4/12/1966,Sibling,No injury,Community Service,3,Osh oblast
+ID0000185,Male,9/15/1987,Inc0000429,8/9/2021,sexual violence,Female,3/3/1975,Spouse,Hospitalized,Community Service,10,Osh oblast
+ID0000186,Male,4/4/1978,Inc0000430,1/15/2023,physical violence,Female,2/8/2000,Sibling,Injured,Arrested,6,Chui oblast
+ID0000187,Male,4/20/1988,Inc0000431,6/7/2021,physical violence,Female,5/6/1960,Partner,Hospitalized,Arrested,3,Bishkek city
+ID0000187,Male,6/5/1990,Inc0000432,1/15/2021,physical violence,Female,5/23/1991,Ex-spouse,Hospitalized,Arrested,4,Jalal-Abat oblast
+ID0000188,Male,3/10/1970,Inc0000433,10/17/2022,sexual violence,Female,6/13/1975,Partner,Hospitalized,Released,8,Osh oblast
+ID0000189,Male,12/21/2000,Inc0000434,7/13/2022,physical violence,Female,1/17/1985,Parent,No injury,Community Service,7,Chui oblast
+ID0000189,Male,4/29/1981,Inc0000435,3/7/2020,physical violence,Female,2/27/1979,Sibling,Injured,Released,5,Talas oblast
+ID0000189,Female,1/3/1964,Inc0000436,1/23/2023,physical violence,Female,2/10/1969,Partner,No injury,Community Service,3,Osh city
+ID0000190,Male,4/17/1983,Inc0000437,4/20/2021,physical violence,Female,9/21/1960,Sibling,Injured,Community Service,4,Yssyk-Kul oblast
+ID0000190,Male,2/10/1993,Inc0000438,9/1/2023,sexual violence,Female,8/22/1965,Spouse,Injured,Community Service,10,Chui oblast
+ID0000191,Male,3/16/1981,Inc0000439,8/27/2018,verbal violence,Female,7/16/1963,Sibling,Injured,Released,10,Chui oblast
+ID0000191,Male,9/7/1984,Inc0000440,12/25/2023,psychological violence,Female,4/26/1972,Ex-spouse,Injured,Community Service,10,Chui oblast
+ID0000191,Male,12/2/1964,Inc0000441,1/10/2024,psychological violence,Female,1/8/1996,Parent,No injury,Community Service,1,Chui oblast
+ID0000192,Male,4/25/1962,Inc0000442,5/31/2019,sexual violence,Female,9/9/1965,Spouse,Injured,Arrested,9,Chui oblast
+ID0000192,Male,7/8/1976,Inc0000443,7/24/2024,sexual violence,Female,6/17/1989,Ex-spouse,Hospitalized,Arrested,3,Bishkek city
+ID0000192,Male,3/3/1965,Inc0000444,4/14/2020,psychological violence,Female,10/9/1974,Partner,Hospitalized,Arrested,4,Chui oblast
+ID0000192,Male,3/6/1971,Inc0000445,5/11/2023,physical violence,Female,3/21/1989,Ex-spouse,No injury,Arrested,5,Chui oblast
+ID0000193,Male,4/16/1971,Inc0000446,10/1/2018,sexual violence,Female,10/12/1967,Ex-spouse,Hospitalized,Released,9,Bishkek city
+ID0000194,Female,5/5/1964,Inc0000447,7/24/2024,physical violence,Female,2/16/1994,Parent,Hospitalized,Arrested,4,Bishkek city
+ID0000194,Male,1/7/1983,Inc0000448,8/29/2019,verbal violence,Female,9/22/1993,Sibling,No injury,Arrested,8,Osh oblast
+ID0000194,Male,12/21/1960,Inc0000449,3/28/2020,psychological violence,Female,2/27/1973,Spouse,Hospitalized,Arrested,5,Naryn oblast
+ID0000194,Male,12/13/1968,Inc0000450,10/17/2020,physical violence,Female,5/28/1984,Partner,No injury,Released,2,Jalal-Abat oblast
+ID0000195,Male,5/30/1995,Inc0000451,5/30/2024,sexual violence,Female,3/13/1998,Partner,Hospitalized,Arrested,8,Osh oblast
+ID0000195,Male,11/6/1972,Inc0000452,6/17/2023,sexual violence,Female,3/14/1993,Parent,Injured,Arrested,1,Yssyk-Kul oblast
+ID0000195,Male,12/24/1981,Inc0000453,7/16/2019,psychological violence,Female,5/30/1970,Parent,No injury,Released,6,Osh city
+ID0000196,Male,2/22/1985,Inc0000454,1/26/2020,sexual violence,Female,11/30/1996,Sibling,Hospitalized,Arrested,7,Chui oblast
+ID0000196,Male,4/25/1981,Inc0000455,2/3/2023,psychological violence,Female,10/8/1972,Partner,Hospitalized,Released,4,Jalal-Abat oblast
+ID0000197,Male,7/15/1992,Inc0000456,5/27/2020,psychological violence,Female,1/19/1975,Parent,Hospitalized,Released,1,Naryn oblast
+ID0000197,Male,8/16/1975,Inc0000457,8/22/2018,verbal violence,Female,10/7/1980,Ex-spouse,Hospitalized,Arrested,10,Chui oblast
+ID0000198,Male,12/31/1995,Inc0000458,11/17/2023,psychological violence,Female,5/6/1964,Ex-spouse,Injured,Arrested,6,Bishkek city
+ID0000198,Male,3/24/1982,Inc0000459,9/26/2022,verbal violence,Female,4/8/1971,Sibling,No injury,Released,8,Jalal-Abat oblast
+ID0000198,Male,3/10/1972,Inc0000460,11/23/2022,sexual violence,Female,5/25/1996,Ex-spouse,Hospitalized,Arrested,4,Bishkek city
+ID0000198,Male,11/15/1975,Inc0000461,4/13/2022,physical violence,Female,8/7/1994,Sibling,Hospitalized,Released,2,Osh oblast
+ID0000199,Male,5/15/1992,Inc0000462,7/14/2022,physical violence,Female,7/11/1976,Partner,No injury,Community Service,6,Bishkek city
+ID0000199,Male,6/29/1981,Inc0000463,8/21/2019,physical violence,Female,1/31/1976,Parent,Injured,Community Service,6,Bishkek city
+ID0000199,Male,2/4/1985,Inc0000464,3/14/2021,sexual violence,Female,8/15/1998,Parent,No injury,Community Service,9,Chui oblast
+ID0000199,Male,9/6/1989,Inc0000465,10/8/2019,physical violence,Female,12/2/1990,Sibling,Injured,Community Service,7,Osh oblast
+ID0000200,Male,11/14/1984,Inc0000466,7/9/2020,sexual violence,Female,8/25/1985,Sibling,Hospitalized,Community Service,6,Chui oblast
+ID0000200,Male,10/26/1977,Inc0000467,2/3/2022,psychological violence,Female,5/30/1991,Ex-spouse,Hospitalized,Community Service,2,Yssyk-Kul oblast
+ID0000200,Male,11/30/1995,Inc0000468,9/28/2018,physical violence,Female,7/8/1988,Parent,No injury,Released,5,Jalal-Abat oblast
+ID0000200,Male,5/2/1974,Inc0000469,9/19/2023,physical violence,Female,11/19/1978,Spouse,Injured,Released,4,Chui oblast
+ID0000201,Male,8/8/1973,Inc0000470,1/3/2018,physical violence,Female,5/12/1995,Spouse,Injured,Community Service,3,Bishkek city
+ID0000202,Female,11/14/1996,Inc0000471,11/8/2019,physical violence,Female,9/12/1993,Sibling,Hospitalized,Community Service,6,Jalal-Abat oblast
+ID0000202,Male,10/7/1973,Inc0000472,4/30/2018,psychological violence,Female,2/6/1978,Sibling,Hospitalized,Released,10,Naryn oblast
+ID0000202,Male,4/22/1998,Inc0000473,2/12/2020,physical violence,Male,2/23/1969,Ex-spouse,Injured,Released,9,Chui oblast
+ID0000203,Male,5/19/1982,Inc0000474,3/5/2023,verbal violence,Female,6/10/1970,Sibling,Injured,Arrested,3,Batken oblast
+ID0000204,Male,10/3/1961,Inc0000475,3/20/2018,sexual violence,Female,4/4/1988,Parent,Injured,Community Service,8,Yssyk-Kul oblast
+ID0000205,Male,7/12/1962,Inc0000476,11/15/2020,psychological violence,Female,10/7/1991,Parent,Hospitalized,Arrested,3,Jalal-Abat oblast
+ID0000205,Male,6/12/1966,Inc0000477,1/19/2021,physical violence,Female,5/20/1994,Sibling,Injured,Released,8,Bishkek city
+ID0000206,Male,2/8/1968,Inc0000478,1/7/2019,verbal violence,Female,2/13/1962,Ex-spouse,No injury,Released,4,Osh oblast
+ID0000206,Male,9/28/1974,Inc0000479,8/22/2023,verbal violence,Female,4/16/1975,Ex-spouse,Hospitalized,Released,1,Bishkek city
+ID0000206,Male,12/12/1999,Inc0000480,12/9/2023,psychological violence,Female,10/29/1985,Spouse,Hospitalized,Released,7,Osh oblast
+ID0000207,Male,2/25/1975,Inc0000481,12/4/2021,physical violence,Female,4/12/1978,Sibling,Injured,Arrested,3,Jalal-Abat oblast
+ID0000207,Male,5/9/1974,Inc0000482,4/20/2023,physical violence,Female,4/29/1986,Parent,Hospitalized,Community Service,6,Naryn oblast
+ID0000207,Male,8/12/1982,Inc0000483,1/3/2021,sexual violence,Female,9/13/1998,Partner,Injured,Arrested,7,Chui oblast
+ID0000208,Male,8/23/1990,Inc0000484,1/18/2021,psychological violence,Female,12/8/1976,Spouse,No injury,Community Service,7,Bishkek city
+ID0000208,Female,7/22/1970,Inc0000485,1/12/2023,verbal violence,Male,5/17/1983,Partner,Injured,Community Service,2,Chui oblast
+ID0000208,Male,11/2/1974,Inc0000486,11/20/2019,sexual violence,Female,8/17/1965,Spouse,No injury,Community Service,5,Chui oblast
+ID0000208,Male,9/9/1965,Inc0000487,11/5/2021,verbal violence,Female,10/30/1985,Partner,Hospitalized,Released,4,Jalal-Abat oblast
+ID0000209,Male,9/6/1992,Inc0000488,4/15/2024,sexual violence,Female,10/21/1969,Partner,Injured,Community Service,8,Osh oblast
+ID0000209,Male,3/6/1978,Inc0000489,5/15/2024,physical violence,Female,6/26/1960,Spouse,No injury,Arrested,7,Naryn oblast
+ID0000210,Male,7/24/1972,Inc0000490,11/24/2020,sexual violence,Female,8/12/1984,Partner,Injured,Community Service,10,Yssyk-Kul oblast
+ID0000210,Male,3/10/1972,Inc0000491,2/10/2020,psychological violence,Female,5/27/1978,Partner,No injury,Released,8,Osh city
+ID0000210,Male,5/31/1972,Inc0000492,5/29/2024,physical violence,Female,7/25/1962,Partner,Hospitalized,Community Service,5,Chui oblast
+ID0000211,Male,1/6/1994,Inc0000493,4/26/2020,verbal violence,Female,7/4/1975,Spouse,Hospitalized,Community Service,3,Bishkek city
+ID0000212,Male,7/17/1972,Inc0000494,8/26/2020,physical violence,Female,5/29/1974,Parent,Hospitalized,Community Service,4,Bishkek city
+ID0000213,Male,12/31/1980,Inc0000495,6/24/2022,verbal violence,Female,9/7/1981,Sibling,No injury,Community Service,7,Yssyk-Kul oblast
+ID0000213,Male,8/26/1978,Inc0000496,10/23/2018,verbal violence,Female,3/13/1966,Sibling,Hospitalized,Arrested,3,Osh oblast
+ID0000213,Male,9/25/1996,Inc0000497,3/28/2021,verbal violence,Female,11/16/1969,Sibling,Injured,Released,4,Batken oblast
+ID0000213,Male,10/24/1975,Inc0000498,4/28/2019,physical violence,Female,5/31/1977,Ex-spouse,Injured,Released,2,Bishkek city
+ID0000214,Male,4/26/1975,Inc0000499,5/25/2023,physical violence,Female,10/5/1968,Parent,Hospitalized,Community Service,2,Yssyk-Kul oblast
+ID0000214,Female,8/12/1972,Inc0000500,2/25/2021,psychological violence,Female,3/20/1992,Partner,No injury,Community Service,2,Talas oblast
+ID0000214,Male,6/7/1983,Inc0000501,10/20/2021,psychological violence,Female,8/1/1983,Ex-spouse,Injured,Community Service,3,Jalal-Abat oblast
+ID0000215,Male,7/12/1972,Inc0000502,9/14/2021,sexual violence,Female,7/24/2000,Parent,Injured,Community Service,1,Chui oblast
+ID0000216,Female,8/29/1965,Inc0000503,12/29/2021,physical violence,Female,12/28/1986,Partner,Injured,Released,1,Bishkek city
+ID0000216,Male,3/22/1972,Inc0000504,9/11/2022,physical violence,Female,7/5/1981,Sibling,Injured,Arrested,10,Bishkek city
+ID0000216,Male,2/18/1995,Inc0000505,9/2/2020,psychological violence,Female,5/11/1985,Spouse,No injury,Community Service,2,Batken oblast
+ID0000217,Female,6/29/1969,Inc0000506,2/17/2023,psychological violence,Female,1/18/1964,Parent,No injury,Released,5,Yssyk-Kul oblast
+ID0000217,Female,10/13/1999,Inc0000507,1/13/2020,psychological violence,Female,11/18/1990,Parent,Injured,Arrested,2,Naryn oblast
+ID0000217,Male,6/1/1962,Inc0000508,11/11/2018,verbal violence,Female,9/17/1971,Sibling,Injured,Released,9,Bishkek city
+ID0000217,Male,9/7/1961,Inc0000509,4/15/2019,physical violence,Female,1/4/1989,Parent,Injured,Released,3,Jalal-Abat oblast
+ID0000218,Male,3/22/1964,Inc0000510,7/9/2021,sexual violence,Female,5/7/1985,Parent,Injured,Arrested,2,Yssyk-Kul oblast
+ID0000218,Male,10/7/1973,Inc0000511,7/10/2021,verbal violence,Female,6/3/1990,Sibling,Hospitalized,Community Service,3,Chui oblast
+ID0000219,Male,9/24/1988,Inc0000512,11/27/2022,sexual violence,Female,6/26/1976,Spouse,Hospitalized,Released,4,Jalal-Abat oblast
+ID0000219,Male,9/24/1964,Inc0000513,1/8/2020,sexual violence,Female,3/2/1982,Partner,Hospitalized,Community Service,6,Bishkek city
+ID0000220,Male,3/4/1970,Inc0000514,1/14/2021,sexual violence,Female,3/8/1965,Partner,No injury,Community Service,10,Jalal-Abat oblast
+ID0000220,Male,8/25/1978,Inc0000515,1/21/2019,physical violence,Female,7/30/1972,Sibling,Injured,Community Service,6,Osh oblast
+ID0000220,Male,7/17/1994,Inc0000516,11/1/2018,psychological violence,Female,6/10/1961,Partner,Hospitalized,Arrested,8,Naryn oblast
+ID0000220,Male,3/12/1966,Inc0000517,9/23/2023,sexual violence,Female,2/16/2000,Partner,No injury,Released,3,Yssyk-Kul oblast
+ID0000221,Male,12/20/1992,Inc0000518,9/2/2020,verbal violence,Female,8/23/1985,Partner,No injury,Arrested,6,Chui oblast
+ID0000221,Male,11/16/1977,Inc0000519,11/5/2019,physical violence,Male,1/13/1985,Partner,Injured,Community Service,6,Bishkek city
+ID0000221,Male,2/23/1975,Inc0000520,12/1/2020,psychological violence,Female,6/11/1970,Partner,Hospitalized,Community Service,9,Osh city
+ID0000221,Male,4/19/1972,Inc0000521,7/20/2020,verbal violence,Female,12/22/1975,Spouse,No injury,Arrested,7,Bishkek city
+ID0000222,Male,12/13/1966,Inc0000522,8/5/2023,physical violence,Female,10/26/1990,Parent,Injured,Arrested,6,Chui oblast
+ID0000223,Male,4/1/1965,Inc0000523,2/20/2019,psychological violence,Female,2/21/1968,Sibling,No injury,Community Service,5,Jalal-Abat oblast
+ID0000223,Male,1/25/1984,Inc0000524,11/9/2020,verbal violence,Female,10/8/1975,Parent,Injured,Arrested,2,Yssyk-Kul oblast
+ID0000224,Male,7/6/1968,Inc0000525,5/10/2020,physical violence,Female,10/14/1988,Partner,Injured,Released,3,Batken oblast
+ID0000224,Male,5/17/1971,Inc0000526,11/9/2021,psychological violence,Female,6/10/1961,Parent,Hospitalized,Community Service,7,Bishkek city
+ID0000224,Male,3/18/1990,Inc0000527,6/28/2020,verbal violence,Female,5/15/1980,Ex-spouse,Hospitalized,Community Service,6,Yssyk-Kul oblast
+ID0000224,Male,10/5/1978,Inc0000528,2/25/2020,psychological violence,Female,9/15/1960,Partner,No injury,Arrested,4,Yssyk-Kul oblast
+ID0000225,Male,11/3/1998,Inc0000529,1/25/2019,sexual violence,Female,5/30/1991,Ex-spouse,Injured,Community Service,7,Chui oblast
+ID0000225,Male,12/8/1978,Inc0000530,1/6/2021,psychological violence,Female,6/8/1962,Partner,Hospitalized,Community Service,6,Bishkek city
+ID0000225,Female,9/14/1986,Inc0000531,11/16/2019,physical violence,Female,4/14/1992,Partner,Injured,Released,3,Bishkek city
+ID0000226,Male,10/30/1982,Inc0000532,2/20/2023,physical violence,Female,2/2/1997,Parent,Injured,Released,7,Jalal-Abat oblast
+ID0000226,Female,4/22/1982,Inc0000533,8/2/2019,sexual violence,Female,12/10/1966,Parent,Hospitalized,Arrested,5,Jalal-Abat oblast
+ID0000226,Male,7/24/1992,Inc0000534,9/8/2022,verbal violence,Female,12/15/1965,Sibling,Hospitalized,Arrested,5,Osh oblast
+ID0000226,Male,1/30/1971,Inc0000535,7/24/2023,psychological violence,Female,3/21/1983,Sibling,Hospitalized,Released,2,Chui oblast
+ID0000227,Male,7/7/1997,Inc0000536,12/1/2019,physical violence,Female,6/17/1972,Ex-spouse,No injury,Released,8,Chui oblast
+ID0000227,Male,1/17/1994,Inc0000537,9/8/2019,physical violence,Female,9/27/1980,Partner,Hospitalized,Released,4,Talas oblast
+ID0000227,Male,11/28/1975,Inc0000538,3/29/2020,sexual violence,Female,6/13/1986,Parent,Hospitalized,Released,7,Bishkek city
+ID0000227,Male,2/14/1982,Inc0000539,12/13/2021,physical violence,Female,7/3/1994,Sibling,Hospitalized,Arrested,6,Osh oblast
+ID0000228,Male,3/30/1990,Inc0000540,10/5/2021,verbal violence,Female,5/14/1981,Spouse,No injury,Arrested,7,Chui oblast
+ID0000228,Male,7/22/1995,Inc0000541,10/17/2019,physical violence,Female,2/9/1964,Spouse,No injury,Released,9,Naryn oblast
+ID0000228,Male,8/5/1962,Inc0000542,10/25/2021,verbal violence,Female,8/4/1977,Sibling,Hospitalized,Community Service,2,Yssyk-Kul oblast
+ID0000228,Male,7/18/1974,Inc0000543,7/30/2023,sexual violence,Female,2/11/1967,Sibling,No injury,Community Service,1,Bishkek city
+ID0000229,Male,6/30/1983,Inc0000544,11/18/2022,physical violence,Female,12/20/1993,Sibling,No injury,Arrested,6,Bishkek city
+ID0000229,Male,7/17/1977,Inc0000545,4/26/2023,psychological violence,Female,2/24/1962,Parent,No injury,Released,4,Batken oblast
+ID0000230,Male,2/9/1984,Inc0000546,6/18/2019,verbal violence,Female,6/15/1996,Spouse,No injury,Community Service,3,Bishkek city
+ID0000230,Male,12/17/1976,Inc0000547,3/31/2024,sexual violence,Female,6/27/1996,Sibling,Injured,Released,5,Bishkek city
+ID0000230,Male,7/7/1960,Inc0000548,4/2/2024,sexual violence,Female,6/29/1969,Sibling,Hospitalized,Released,5,Jalal-Abat oblast
+ID0000230,Male,7/5/1997,Inc0000549,4/23/2022,psychological violence,Female,5/12/1990,Sibling,Hospitalized,Community Service,1,Osh city
+ID0000231,Female,10/17/1964,Inc0000550,3/23/2022,verbal violence,Female,8/13/1985,Spouse,Hospitalized,Released,4,Osh oblast
+ID0000231,Male,7/4/1981,Inc0000551,5/2/2024,verbal violence,Female,1/13/2000,Parent,No injury,Released,10,Osh oblast
+ID0000232,Male,6/5/1960,Inc0000552,8/5/2018,physical violence,Female,9/10/1978,Parent,Hospitalized,Arrested,9,Bishkek city
+ID0000232,Male,7/31/1990,Inc0000553,5/17/2021,verbal violence,Female,10/17/1996,Parent,Hospitalized,Arrested,3,Batken oblast
+ID0000232,Male,7/11/1989,Inc0000554,2/13/2022,sexual violence,Female,10/16/1979,Ex-spouse,Hospitalized,Arrested,3,Jalal-Abat oblast
+ID0000233,Male,8/22/1966,Inc0000555,8/27/2022,verbal violence,Female,2/21/1976,Parent,Injured,Arrested,4,Bishkek city
+ID0000233,Male,11/25/1998,Inc0000556,6/29/2018,physical violence,Female,5/12/1978,Partner,Hospitalized,Community Service,7,Chui oblast
+ID0000233,Male,9/2/1978,Inc0000557,12/3/2020,physical violence,Female,6/14/1977,Spouse,Injured,Arrested,10,Jalal-Abat oblast
+ID0000234,Male,8/4/1981,Inc0000558,4/29/2020,physical violence,Male,9/20/1978,Sibling,Injured,Arrested,7,Osh oblast
+ID0000234,Male,1/2/1991,Inc0000559,5/16/2024,verbal violence,Female,2/23/1978,Ex-spouse,Injured,Released,9,Jalal-Abat oblast
+ID0000235,Male,3/3/1995,Inc0000560,3/11/2019,verbal violence,Female,4/5/1965,Spouse,No injury,Released,5,Jalal-Abat oblast
+ID0000235,Male,5/7/1963,Inc0000561,3/29/2019,physical violence,Female,10/27/1960,Sibling,Hospitalized,Arrested,9,Jalal-Abat oblast
+ID0000235,Male,11/30/1964,Inc0000562,2/10/2021,sexual violence,Male,11/22/1969,Ex-spouse,No injury,Arrested,5,Chui oblast
+ID0000235,Male,9/7/1974,Inc0000563,4/15/2020,verbal violence,Female,2/17/1967,Ex-spouse,No injury,Community Service,5,Osh oblast
+ID0000236,Male,12/6/1983,Inc0000564,11/8/2021,verbal violence,Female,5/10/1968,Parent,No injury,Arrested,8,Bishkek city
+ID0000236,Male,11/26/1994,Inc0000565,2/12/2022,psychological violence,Male,2/24/1963,Ex-spouse,Injured,Arrested,8,Chui oblast
+ID0000236,Male,10/5/1965,Inc0000566,9/7/2018,sexual violence,Female,11/23/1982,Ex-spouse,Hospitalized,Arrested,5,Bishkek city
+ID0000237,Male,8/13/1992,Inc0000567,9/18/2019,psychological violence,Female,4/27/1985,Sibling,No injury,Arrested,5,Chui oblast
+ID0000237,Female,5/21/1990,Inc0000568,8/11/2019,sexual violence,Female,2/10/1960,Ex-spouse,Injured,Community Service,5,Osh city
+ID0000237,Male,12/29/1997,Inc0000569,8/18/2020,physical violence,Female,5/26/1988,Sibling,Hospitalized,Released,7,Jalal-Abat oblast
+ID0000237,Male,12/13/1989,Inc0000570,1/12/2020,sexual violence,Female,5/16/1964,Parent,No injury,Community Service,1,Chui oblast
+ID0000238,Male,11/27/1988,Inc0000571,9/11/2019,physical violence,Female,6/10/1962,Sibling,No injury,Arrested,6,Chui oblast
+ID0000239,Female,5/19/1977,Inc0000572,7/31/2022,sexual violence,Female,5/10/1978,Spouse,Hospitalized,Arrested,1,Chui oblast
+ID0000239,Female,3/19/1969,Inc0000573,1/17/2021,psychological violence,Female,12/18/1966,Partner,Injured,Released,5,Yssyk-Kul oblast
+ID0000239,Male,8/18/1994,Inc0000574,6/24/2023,verbal violence,Female,11/10/1960,Ex-spouse,Injured,Released,5,Osh oblast
+ID0000239,Male,5/7/1968,Inc0000575,7/15/2018,psychological violence,Female,5/7/1988,Sibling,Injured,Released,8,Naryn oblast
+ID0000240,Female,5/29/1966,Inc0000576,11/11/2021,psychological violence,Female,3/8/1997,Spouse,Hospitalized,Released,4,Osh city
+ID0000240,Male,12/8/1978,Inc0000577,9/20/2018,psychological violence,Female,1/9/1965,Partner,Injured,Arrested,8,Chui oblast
+ID0000241,Female,5/25/1974,Inc0000578,3/8/2021,sexual violence,Female,2/11/1963,Sibling,Injured,Arrested,4,Chui oblast
+ID0000241,Male,1/13/1989,Inc0000579,2/6/2018,verbal violence,Female,9/13/1979,Partner,Hospitalized,Arrested,1,Naryn oblast
+ID0000241,Male,5/7/1995,Inc0000580,11/5/2023,physical violence,Male,3/22/1982,Sibling,Hospitalized,Released,2,Bishkek city
+ID0000242,Male,4/9/1986,Inc0000581,5/27/2022,psychological violence,Female,11/23/1998,Ex-spouse,Injured,Community Service,8,Yssyk-Kul oblast
+ID0000242,Male,6/18/1961,Inc0000582,5/11/2021,physical violence,Female,5/24/1969,Partner,Hospitalized,Released,6,Osh oblast
+ID0000242,Male,9/6/1995,Inc0000583,4/16/2021,physical violence,Female,3/26/1988,Spouse,Injured,Released,3,Chui oblast
+ID0000242,Male,1/24/1997,Inc0000584,7/29/2020,psychological violence,Female,4/20/1988,Ex-spouse,Hospitalized,Arrested,1,Chui oblast
+ID0000243,Male,7/17/1972,Inc0000585,3/22/2019,psychological violence,Female,1/15/1967,Partner,No injury,Released,3,Jalal-Abat oblast
+ID0000243,Male,12/23/1972,Inc0000586,5/5/2021,verbal violence,Female,2/17/1975,Ex-spouse,No injury,Released,2,Bishkek city
+ID0000244,Male,4/6/1974,Inc0000587,3/17/2018,sexual violence,Female,8/4/1996,Sibling,Injured,Community Service,9,Osh city
+ID0000244,Male,2/1/1999,Inc0000588,1/23/2021,sexual violence,Female,2/10/1964,Sibling,Injured,Released,9,Talas oblast
+ID0000244,Male,7/8/1993,Inc0000589,1/9/2020,verbal violence,Female,9/28/1976,Ex-spouse,No injury,Released,5,Chui oblast
+ID0000245,Male,4/4/1989,Inc0000590,7/19/2018,physical violence,Female,4/17/1975,Parent,Hospitalized,Arrested,10,Chui oblast
+ID0000245,Male,4/23/1968,Inc0000591,1/1/2018,physical violence,Female,9/17/1971,Partner,Hospitalized,Arrested,3,Talas oblast
+ID0000245,Male,2/18/1995,Inc0000592,4/27/2024,verbal violence,Female,6/15/1982,Sibling,No injury,Community Service,8,Jalal-Abat oblast
+ID0000246,Male,10/6/1985,Inc0000593,4/5/2022,verbal violence,Female,12/28/1993,Sibling,Injured,Arrested,2,Bishkek city
+ID0000247,Male,8/2/1975,Inc0000594,11/15/2022,physical violence,Female,5/11/1990,Spouse,Injured,Community Service,6,Chui oblast
+ID0000247,Male,3/27/1975,Inc0000595,6/9/2024,physical violence,Female,10/24/1965,Parent,Injured,Arrested,1,Jalal-Abat oblast
+ID0000247,Male,10/17/1987,Inc0000596,1/9/2021,psychological violence,Female,8/30/1982,Partner,Injured,Released,2,Bishkek city
+ID0000247,Male,6/24/1999,Inc0000597,1/24/2023,psychological violence,Female,5/4/1969,Partner,Injured,Released,1,Jalal-Abat oblast
+ID0000248,Male,7/30/1978,Inc0000598,10/15/2020,psychological violence,Female,11/6/1984,Partner,Injured,Arrested,8,Bishkek city
+ID0000248,Female,12/9/1973,Inc0000599,4/1/2024,verbal violence,Female,6/10/1973,Parent,Injured,Community Service,2,Bishkek city
+ID0000249,Male,7/28/1995,Inc0000600,12/11/2020,physical violence,Female,12/19/1980,Sibling,Hospitalized,Arrested,7,Chui oblast
+ID0000250,Male,4/8/1995,Inc0000601,7/8/2023,sexual violence,Female,3/25/1978,Sibling,Injured,Arrested,5,Bishkek city
+ID0000251,Male,5/10/1969,Inc0000602,8/30/2019,psychological violence,Female,8/28/1998,Parent,Injured,Community Service,5,Osh oblast
+ID0000251,Male,12/24/1974,Inc0000603,9/18/2018,sexual violence,Male,12/22/1994,Spouse,Hospitalized,Released,5,Chui oblast
+ID0000251,Male,6/15/1963,Inc0000604,11/24/2020,physical violence,Female,11/27/1999,Parent,Injured,Released,10,Bishkek city
+ID0000251,Male,2/17/1978,Inc0000605,12/15/2019,physical violence,Female,10/2/1989,Partner,Hospitalized,Released,4,Batken oblast
+ID0000252,Male,3/27/1999,Inc0000606,11/1/2018,verbal violence,Female,4/18/1976,Spouse,Injured,Released,6,Chui oblast
+ID0000252,Male,2/16/1994,Inc0000607,10/6/2019,physical violence,Female,9/30/1993,Sibling,Injured,Community Service,7,Bishkek city
+ID0000252,Male,10/17/1980,Inc0000608,9/21/2023,verbal violence,Female,6/25/1996,Spouse,Injured,Community Service,10,Chui oblast
+ID0000253,Male,3/12/1960,Inc0000609,7/30/2023,verbal violence,Female,5/15/1982,Parent,Injured,Released,9,Osh oblast
+ID0000254,Male,4/24/1960,Inc0000610,3/21/2022,verbal violence,Female,10/31/1989,Ex-spouse,Hospitalized,Released,1,Naryn oblast
+ID0000254,Female,7/8/1986,Inc0000611,6/17/2020,physical violence,Female,3/19/1984,Spouse,No injury,Community Service,3,Chui oblast
+ID0000254,Male,6/28/1980,Inc0000612,7/25/2019,verbal violence,Female,4/2/1979,Parent,No injury,Community Service,7,Bishkek city
+ID0000255,Male,12/8/1989,Inc0000613,4/11/2023,sexual violence,Female,3/13/1963,Sibling,No injury,Arrested,4,Osh oblast
+ID0000255,Male,7/25/1989,Inc0000614,7/27/2020,physical violence,Female,3/12/1972,Sibling,Injured,Released,7,Jalal-Abat oblast
+ID0000256,Male,3/28/1978,Inc0000615,8/1/2020,physical violence,Male,9/24/1961,Partner,Injured,Community Service,10,Bishkek city
+ID0000256,Male,10/16/1984,Inc0000616,4/3/2018,psychological violence,Female,6/2/1995,Partner,Hospitalized,Released,7,Chui oblast
+ID0000257,Male,12/25/1986,Inc0000617,3/15/2023,sexual violence,Female,9/1/1996,Partner,Injured,Released,1,Talas oblast
+ID0000258,Male,12/26/1964,Inc0000618,4/14/2021,physical violence,Female,11/10/1962,Parent,Hospitalized,Community Service,7,Bishkek city
+ID0000258,Male,6/14/1965,Inc0000619,7/25/2020,sexual violence,Female,3/9/1966,Spouse,Injured,Arrested,8,Chui oblast
+ID0000258,Male,9/29/1966,Inc0000620,7/22/2022,psychological violence,Female,9/19/1963,Sibling,No injury,Arrested,2,Bishkek city
+ID0000258,Male,2/14/1987,Inc0000621,4/26/2023,physical violence,Female,2/16/1965,Spouse,Hospitalized,Released,1,Jalal-Abat oblast
+ID0000259,Male,5/10/1960,Inc0000622,11/9/2020,verbal violence,Female,11/16/1977,Sibling,Injured,Arrested,1,Bishkek city
+ID0000259,Female,2/11/1986,Inc0000623,2/1/2024,sexual violence,Female,6/13/1985,Ex-spouse,No injury,Arrested,6,Osh oblast
+ID0000260,Male,11/10/1997,Inc0000624,2/5/2019,verbal violence,Female,8/6/1984,Parent,Hospitalized,Arrested,4,Bishkek city
+ID0000260,Male,4/30/1984,Inc0000625,12/1/2020,physical violence,Male,1/10/1981,Ex-spouse,Hospitalized,Arrested,4,Jalal-Abat oblast
+ID0000260,Male,1/25/1986,Inc0000626,9/17/2020,sexual violence,Female,7/3/1989,Sibling,Hospitalized,Arrested,10,Bishkek city
+ID0000260,Male,6/30/1989,Inc0000627,6/11/2019,sexual violence,Female,4/29/1979,Partner,Hospitalized,Community Service,4,Chui oblast
+ID0000261,Male,11/4/1965,Inc0000628,11/10/2018,psychological violence,Female,5/7/1968,Parent,Injured,Arrested,6,Bishkek city
+ID0000262,Male,6/15/1979,Inc0000629,7/23/2020,physical violence,Female,3/2/1964,Partner,No injury,Community Service,7,Yssyk-Kul oblast
+ID0000263,Male,6/20/1997,Inc0000630,6/18/2020,verbal violence,Female,3/17/1960,Partner,No injury,Arrested,2,Bishkek city
+ID0000263,Male,10/13/1997,Inc0000631,7/17/2023,sexual violence,Female,12/5/1977,Partner,No injury,Community Service,10,Chui oblast
+ID0000264,Male,2/19/1985,Inc0000632,4/6/2019,physical violence,Female,1/22/1980,Spouse,No injury,Released,8,Bishkek city
+ID0000264,Male,1/9/1998,Inc0000633,9/11/2022,physical violence,Female,12/16/1996,Spouse,Injured,Arrested,6,Chui oblast
+ID0000264,Female,4/19/1988,Inc0000634,2/2/2019,psychological violence,Female,10/20/1993,Sibling,No injury,Arrested,4,Yssyk-Kul oblast
+ID0000265,Male,11/12/1976,Inc0000635,8/3/2019,physical violence,Female,10/27/1992,Ex-spouse,Hospitalized,Community Service,4,Chui oblast
+ID0000266,Male,8/19/1971,Inc0000636,7/22/2020,sexual violence,Female,9/8/1978,Ex-spouse,Hospitalized,Arrested,2,Osh city
+ID0000266,Male,3/1/1977,Inc0000637,6/16/2020,sexual violence,Female,2/23/1998,Spouse,Injured,Arrested,1,Bishkek city
+ID0000267,Male,9/22/1982,Inc0000638,8/8/2023,verbal violence,Female,2/13/1996,Spouse,No injury,Community Service,7,Chui oblast
+ID0000267,Male,5/18/1972,Inc0000639,3/1/2022,sexual violence,Female,3/9/1969,Ex-spouse,Hospitalized,Released,3,Chui oblast
+ID0000268,Female,8/2/1996,Inc0000640,9/10/2021,sexual violence,Female,12/27/1996,Sibling,No injury,Community Service,1,Osh oblast
+ID0000268,Male,12/26/1984,Inc0000641,1/6/2023,verbal violence,Female,4/6/1970,Ex-spouse,No injury,Community Service,2,Chui oblast
+ID0000269,Male,6/2/1993,Inc0000642,12/15/2020,psychological violence,Female,2/9/1981,Ex-spouse,Injured,Community Service,7,Batken oblast
+ID0000269,Male,11/6/1975,Inc0000643,12/11/2019,sexual violence,Female,11/3/1972,Ex-spouse,Injured,Released,3,Yssyk-Kul oblast
+ID0000269,Male,3/1/1977,Inc0000644,3/15/2023,psychological violence,Female,5/31/1974,Partner,No injury,Community Service,2,Chui oblast
+ID0000270,Male,12/4/1987,Inc0000645,7/20/2019,physical violence,Female,11/21/1969,Spouse,Hospitalized,Released,8,Talas oblast
+ID0000271,Male,3/2/1969,Inc0000646,7/21/2020,physical violence,Female,5/15/1963,Partner,No injury,Released,1,Bishkek city
+ID0000272,Male,11/14/1964,Inc0000647,3/20/2021,verbal violence,Female,5/12/1991,Parent,Injured,Arrested,8,Bishkek city
+ID0000272,Male,8/22/1967,Inc0000648,11/1/2018,psychological violence,Female,2/19/1987,Ex-spouse,Injured,Community Service,6,Talas oblast
+ID0000273,Male,12/12/1974,Inc0000649,10/24/2022,physical violence,Female,10/24/1964,Ex-spouse,Hospitalized,Arrested,9,Bishkek city
+ID0000273,Male,11/16/1999,Inc0000650,4/19/2022,verbal violence,Female,12/31/1977,Sibling,No injury,Community Service,3,Bishkek city
+ID0000274,Male,8/20/1981,Inc0000651,1/1/2018,psychological violence,Female,9/9/1966,Spouse,No injury,Community Service,10,Jalal-Abat oblast
+ID0000275,Male,10/15/1989,Inc0000652,2/15/2021,sexual violence,Female,9/25/1976,Spouse,Hospitalized,Released,8,Bishkek city
+ID0000275,Male,9/25/1976,Inc0000653,8/6/2018,physical violence,Female,10/29/1999,Spouse,Injured,Released,10,Yssyk-Kul oblast
+ID0000275,Male,8/28/1981,Inc0000654,9/23/2023,verbal violence,Female,6/13/1989,Partner,No injury,Released,8,Jalal-Abat oblast
+ID0000276,Male,9/16/2000,Inc0000655,6/22/2019,psychological violence,Female,7/22/1965,Parent,Injured,Arrested,7,Chui oblast
+ID0000276,Male,11/17/1965,Inc0000656,10/18/2023,psychological violence,Female,5/28/1991,Sibling,No injury,Community Service,1,Bishkek city
+ID0000276,Male,8/16/1964,Inc0000657,2/8/2024,psychological violence,Female,8/11/1960,Spouse,Hospitalized,Arrested,9,Chui oblast
+ID0000276,Male,12/8/1995,Inc0000658,12/21/2021,verbal violence,Female,11/8/1986,Parent,Hospitalized,Released,8,Batken oblast
+ID0000277,Male,9/22/1981,Inc0000659,9/23/2018,physical violence,Female,11/2/1990,Parent,Hospitalized,Arrested,1,Jalal-Abat oblast
+ID0000277,Female,1/9/1975,Inc0000660,12/4/2018,sexual violence,Female,3/26/1965,Parent,Injured,Community Service,5,Jalal-Abat oblast
+ID0000278,Male,11/3/1963,Inc0000661,10/2/2021,physical violence,Female,7/1/1964,Sibling,No injury,Arrested,10,Talas oblast
+ID0000279,Male,2/18/1997,Inc0000662,9/15/2020,verbal violence,Female,11/12/1966,Sibling,No injury,Community Service,2,Chui oblast
+ID0000279,Male,8/29/1971,Inc0000663,4/30/2019,verbal violence,Female,4/17/1989,Spouse,No injury,Community Service,3,Jalal-Abat oblast
+ID0000279,Male,8/30/1974,Inc0000664,3/18/2022,sexual violence,Female,6/10/1994,Ex-spouse,Hospitalized,Arrested,6,Jalal-Abat oblast
+ID0000280,Male,7/4/1989,Inc0000665,4/5/2023,psychological violence,Female,11/21/1965,Ex-spouse,Injured,Released,4,Naryn oblast
+ID0000280,Female,11/11/1981,Inc0000666,1/4/2019,psychological violence,Female,8/4/1992,Spouse,Injured,Released,6,Bishkek city
+ID0000280,Male,9/9/1968,Inc0000667,4/5/2018,sexual violence,Female,1/20/1983,Parent,No injury,Released,9,Bishkek city
+ID0000281,Male,9/28/1984,Inc0000668,5/15/2023,sexual violence,Female,3/27/1991,Spouse,No injury,Arrested,3,Batken oblast
+ID0000281,Male,6/20/1995,Inc0000669,5/23/2023,psychological violence,Female,7/16/1971,Spouse,Injured,Community Service,10,Jalal-Abat oblast
+ID0000281,Male,7/18/1994,Inc0000670,12/5/2023,sexual violence,Female,9/13/1991,Parent,Hospitalized,Released,4,Chui oblast
+ID0000281,Male,9/16/1991,Inc0000671,7/1/2018,psychological violence,Female,12/14/1985,Parent,Hospitalized,Released,3,Bishkek city
+ID0000282,Male,3/4/1968,Inc0000672,1/6/2022,physical violence,Female,2/13/1978,Ex-spouse,Hospitalized,Community Service,3,Chui oblast
+ID0000282,Male,1/8/1993,Inc0000673,11/24/2023,physical violence,Female,10/27/1988,Ex-spouse,Hospitalized,Arrested,4,Jalal-Abat oblast
+ID0000282,Male,4/29/1960,Inc0000674,10/22/2019,physical violence,Female,5/2/1985,Sibling,Hospitalized,Community Service,9,Chui oblast
+ID0000283,Male,8/23/1992,Inc0000675,11/20/2020,psychological violence,Female,8/19/1991,Ex-spouse,No injury,Released,10,Jalal-Abat oblast
+ID0000284,Female,10/20/1968,Inc0000676,7/14/2019,psychological violence,Female,4/23/1970,Sibling,No injury,Arrested,2,Talas oblast
+ID0000284,Male,1/15/1975,Inc0000677,4/19/2019,sexual violence,Female,8/17/1986,Spouse,Injured,Community Service,2,Chui oblast
+ID0000285,Male,8/24/1967,Inc0000678,2/4/2022,psychological violence,Female,1/30/1994,Ex-spouse,Injured,Community Service,9,Chui oblast
+ID0000286,Male,9/17/1974,Inc0000679,1/5/2020,verbal violence,Female,2/27/1992,Partner,Injured,Released,9,Chui oblast
+ID0000286,Male,11/14/1962,Inc0000680,9/17/2022,verbal violence,Female,3/5/1979,Spouse,Injured,Released,7,Osh oblast
+ID0000286,Male,6/30/1999,Inc0000681,8/25/2023,psychological violence,Female,4/21/1964,Spouse,No injury,Community Service,7,Jalal-Abat oblast
+ID0000286,Male,10/8/2000,Inc0000682,10/6/2023,physical violence,Female,8/9/1974,Spouse,No injury,Arrested,2,Jalal-Abat oblast
+ID0000287,Male,8/29/1964,Inc0000683,8/21/2022,physical violence,Female,8/11/1967,Partner,Hospitalized,Released,9,Jalal-Abat oblast
+ID0000287,Male,1/19/1972,Inc0000684,7/31/2018,physical violence,Female,11/7/1992,Spouse,Injured,Community Service,1,Jalal-Abat oblast
+ID0000288,Male,9/4/1986,Inc0000685,11/22/2023,psychological violence,Female,11/16/1962,Spouse,Hospitalized,Community Service,7,Chui oblast
+ID0000288,Male,6/11/1993,Inc0000686,4/10/2018,psychological violence,Female,1/22/1994,Sibling,Hospitalized,Community Service,1,Chui oblast
+ID0000288,Male,2/7/1983,Inc0000687,2/9/2019,sexual violence,Female,1/1/1968,Ex-spouse,Injured,Arrested,10,Jalal-Abat oblast
+ID0000289,Male,6/8/1968,Inc0000688,2/8/2023,verbal violence,Female,1/6/1977,Partner,Hospitalized,Arrested,9,Jalal-Abat oblast
+ID0000289,Male,12/16/1982,Inc0000689,6/20/2024,physical violence,Female,1/29/2000,Ex-spouse,Hospitalized,Community Service,10,Chui oblast
+ID0000289,Male,5/15/1969,Inc0000690,10/27/2019,physical violence,Female,1/16/1997,Parent,Injured,Arrested,10,Chui oblast
+ID0000290,Male,12/19/1983,Inc0000691,10/2/2023,psychological violence,Female,1/14/1975,Ex-spouse,Injured,Arrested,9,Yssyk-Kul oblast
+ID0000290,Male,12/5/1960,Inc0000692,6/9/2021,sexual violence,Female,2/13/1996,Parent,No injury,Released,4,Bishkek city
+ID0000291,Male,12/8/1995,Inc0000693,10/19/2019,physical violence,Female,12/8/1964,Partner,Hospitalized,Arrested,7,Bishkek city
+ID0000291,Male,8/8/1963,Inc0000694,6/2/2020,sexual violence,Female,3/18/1983,Parent,Injured,Community Service,4,Jalal-Abat oblast
+ID0000291,Male,8/13/1998,Inc0000695,10/18/2019,psychological violence,Female,12/28/1997,Sibling,No injury,Community Service,3,Chui oblast
+ID0000292,Male,12/20/1988,Inc0000696,2/15/2020,psychological violence,Female,1/26/1995,Partner,No injury,Released,10,Osh oblast
+ID0000292,Male,7/24/1964,Inc0000697,4/12/2024,psychological violence,Female,7/25/1979,Sibling,No injury,Released,10,Jalal-Abat oblast
+ID0000292,Male,1/24/1996,Inc0000698,4/26/2020,sexual violence,Female,4/3/1977,Sibling,Injured,Community Service,3,Jalal-Abat oblast
+ID0000293,Male,11/20/1997,Inc0000699,7/15/2021,physical violence,Female,1/27/1991,Ex-spouse,No injury,Arrested,3,Jalal-Abat oblast
+ID0000293,Male,6/20/1973,Inc0000700,6/13/2021,psychological violence,Female,4/1/1981,Spouse,Hospitalized,Arrested,4,Bishkek city
+ID0000293,Male,7/31/1975,Inc0000701,12/28/2018,verbal violence,Female,6/17/1985,Ex-spouse,No injury,Released,1,Osh oblast
+ID0000293,Male,9/4/1973,Inc0000702,2/2/2024,verbal violence,Female,3/31/1972,Ex-spouse,Hospitalized,Arrested,3,Osh oblast
+ID0000294,Male,4/28/1991,Inc0000703,5/14/2018,psychological violence,Male,8/23/2000,Parent,No injury,Arrested,3,Chui oblast
+ID0000294,Male,9/27/1986,Inc0000704,12/10/2022,psychological violence,Female,12/7/1978,Parent,Hospitalized,Arrested,6,Osh oblast
+ID0000295,Male,8/15/1968,Inc0000705,8/30/2018,sexual violence,Female,2/28/1989,Ex-spouse,No injury,Released,8,Chui oblast
+ID0000295,Female,3/13/1997,Inc0000706,12/27/2021,sexual violence,Female,1/30/1979,Spouse,No injury,Community Service,2,Chui oblast
+ID0000295,Male,10/15/1978,Inc0000707,11/11/2021,psychological violence,Female,6/13/1976,Sibling,No injury,Arrested,5,Osh city
+ID0000296,Male,9/5/1985,Inc0000708,10/25/2021,verbal violence,Male,9/20/1977,Parent,Injured,Released,6,Jalal-Abat oblast
+ID0000296,Male,8/28/1985,Inc0000709,4/4/2024,verbal violence,Female,9/1/1983,Parent,Hospitalized,Arrested,8,Osh oblast
+ID0000296,Male,7/17/1999,Inc0000710,7/29/2022,physical violence,Female,3/27/1982,Ex-spouse,Injured,Released,1,Yssyk-Kul oblast
+ID0000296,Male,1/21/1982,Inc0000711,11/12/2020,physical violence,Female,6/10/1985,Sibling,Hospitalized,Arrested,1,Yssyk-Kul oblast
+ID0000297,Male,7/24/1968,Inc0000712,10/10/2020,verbal violence,Female,3/16/1993,Partner,Hospitalized,Arrested,10,Jalal-Abat oblast
+ID0000298,Male,9/22/1965,Inc0000713,5/3/2023,psychological violence,Female,10/7/1965,Sibling,Injured,Released,10,Batken oblast
+ID0000298,Male,2/1/1979,Inc0000714,7/7/2019,verbal violence,Female,10/20/1975,Ex-spouse,Injured,Community Service,6,Bishkek city
+ID0000298,Male,4/1/1993,Inc0000715,4/22/2022,psychological violence,Female,6/21/1974,Partner,Injured,Community Service,10,Chui oblast
+ID0000298,Male,10/1/1972,Inc0000716,7/10/2021,physical violence,Female,6/19/1991,Parent,No injury,Released,4,Jalal-Abat oblast
+ID0000299,Male,9/16/1999,Inc0000717,4/3/2019,sexual violence,Female,10/15/1970,Parent,Hospitalized,Community Service,6,Jalal-Abat oblast
+ID0000299,Male,11/25/1972,Inc0000718,5/10/2022,psychological violence,Female,1/30/1992,Partner,Hospitalized,Released,8,Osh city
+ID0000299,Male,7/5/1964,Inc0000719,2/11/2022,psychological violence,Female,7/3/2000,Partner,No injury,Arrested,10,Chui oblast
+ID0000300,Male,10/1/1990,Inc0000720,4/17/2021,physical violence,Female,9/1/1960,Spouse,Hospitalized,Released,6,Naryn oblast
+ID0000300,Male,12/30/1990,Inc0000721,6/12/2024,sexual violence,Female,10/3/1963,Sibling,No injury,Arrested,4,Osh city
+ID0000300,Male,9/28/1983,Inc0000722,6/25/2024,psychological violence,Female,12/5/1971,Parent,Injured,Community Service,5,Batken oblast
+ID0000301,Male,6/7/1973,Inc0000723,1/28/2018,sexual violence,Female,11/20/1972,Sibling,No injury,Released,5,Naryn oblast
+ID0000302,Male,5/9/1967,Inc0000724,6/7/2020,physical violence,Female,7/6/1992,Parent,Hospitalized,Community Service,8,Bishkek city
+ID0000302,Male,10/2/1963,Inc0000725,2/5/2020,psychological violence,Female,12/19/1964,Parent,No injury,Arrested,9,Batken oblast
+ID0000302,Male,9/5/1971,Inc0000726,10/27/2019,sexual violence,Female,4/19/1978,Ex-spouse,Hospitalized,Community Service,8,Chui oblast
+ID0000303,Male,6/22/1993,Inc0000727,3/8/2023,verbal violence,Female,1/5/1985,Sibling,Injured,Released,8,Bishkek city
+ID0000303,Male,10/28/1969,Inc0000728,1/30/2024,verbal violence,Female,10/28/2000,Partner,No injury,Released,1,Jalal-Abat oblast
+ID0000304,Male,4/22/1968,Inc0000729,8/26/2022,verbal violence,Female,3/7/1998,Ex-spouse,No injury,Arrested,3,Bishkek city
+ID0000304,Male,9/27/1961,Inc0000730,12/2/2022,psychological violence,Female,6/23/1968,Partner,No injury,Arrested,9,Chui oblast
+ID0000304,Female,7/17/1969,Inc0000731,3/6/2021,verbal violence,Female,1/5/1963,Parent,No injury,Released,2,Osh oblast
+ID0000305,Male,7/2/1983,Inc0000732,6/10/2018,psychological violence,Female,5/18/1985,Spouse,Injured,Community Service,9,Chui oblast
+ID0000306,Female,10/16/1979,Inc0000733,10/5/2020,psychological violence,Female,10/25/1969,Parent,Hospitalized,Community Service,6,Bishkek city
+ID0000307,Male,7/25/1991,Inc0000734,6/14/2022,physical violence,Female,9/13/1989,Parent,No injury,Released,7,Osh oblast
+ID0000308,Male,11/15/1987,Inc0000735,6/5/2018,psychological violence,Female,6/12/2000,Ex-spouse,Injured,Community Service,8,Jalal-Abat oblast
+ID0000309,Male,9/18/1981,Inc0000736,1/1/2019,physical violence,Female,9/25/1994,Partner,No injury,Arrested,10,Bishkek city
+ID0000309,Male,7/28/1970,Inc0000737,6/7/2024,verbal violence,Female,10/26/1999,Sibling,Injured,Community Service,5,Bishkek city
+ID0000309,Male,10/21/1973,Inc0000738,12/25/2021,sexual violence,Female,9/21/1994,Partner,No injury,Community Service,10,Chui oblast
+ID0000309,Male,9/16/1962,Inc0000739,2/7/2018,sexual violence,Female,3/1/1977,Parent,Injured,Released,2,Jalal-Abat oblast
+ID0000310,Male,3/3/1976,Inc0000740,2/28/2023,verbal violence,Female,5/22/1996,Sibling,Hospitalized,Community Service,3,Chui oblast
+ID0000310,Male,6/24/1990,Inc0000741,3/8/2024,verbal violence,Female,9/3/1986,Ex-spouse,Hospitalized,Released,2,Batken oblast
+ID0000311,Male,11/22/1992,Inc0000742,7/9/2019,sexual violence,Female,4/12/1974,Parent,Hospitalized,Released,5,Osh oblast
+ID0000311,Male,1/29/1986,Inc0000743,2/13/2019,verbal violence,Female,1/20/1968,Parent,Hospitalized,Released,6,Osh city
+ID0000311,Male,1/20/1976,Inc0000744,1/29/2021,psychological violence,Female,6/20/1963,Ex-spouse,Injured,Released,8,Bishkek city
+ID0000311,Male,5/18/1963,Inc0000745,10/27/2023,sexual violence,Female,1/11/1987,Partner,Hospitalized,Arrested,4,Jalal-Abat oblast
+ID0000312,Male,4/12/1994,Inc0000746,1/10/2021,verbal violence,Female,1/8/1994,Ex-spouse,No injury,Released,3,Batken oblast
+ID0000312,Female,8/19/1999,Inc0000747,11/18/2018,psychological violence,Female,11/7/1986,Sibling,Hospitalized,Arrested,3,Chui oblast
+ID0000313,Male,5/8/1996,Inc0000748,4/16/2024,verbal violence,Female,3/23/1969,Parent,Hospitalized,Released,10,Osh oblast
+ID0000313,Male,7/22/1991,Inc0000749,7/31/2020,sexual violence,Female,12/9/1987,Spouse,No injury,Released,3,Chui oblast
+ID0000314,Male,3/6/1973,Inc0000750,6/24/2018,sexual violence,Female,12/12/1981,Partner,Hospitalized,Released,2,Naryn oblast
+ID0000314,Male,9/4/1999,Inc0000751,3/7/2021,physical violence,Female,3/12/1995,Parent,Hospitalized,Community Service,10,Chui oblast
+ID0000314,Male,1/19/1974,Inc0000752,4/25/2018,psychological violence,Female,9/29/1999,Sibling,No injury,Arrested,4,Bishkek city
+ID0000315,Male,7/24/1979,Inc0000753,4/19/2024,physical violence,Female,9/11/1986,Parent,No injury,Released,7,Osh oblast
+ID0000316,Male,10/14/1982,Inc0000754,2/2/2019,physical violence,Female,9/27/1964,Parent,Injured,Arrested,4,Talas oblast
+ID0000316,Male,6/3/1969,Inc0000755,6/10/2024,physical violence,Female,11/27/1966,Parent,No injury,Released,1,Bishkek city
+ID0000317,Female,10/20/1961,Inc0000756,7/10/2020,physical violence,Female,9/5/1964,Parent,Injured,Released,1,Yssyk-Kul oblast
+ID0000317,Male,9/2/1974,Inc0000757,6/21/2019,physical violence,Female,7/5/1985,Partner,Injured,Released,2,Chui oblast
+ID0000317,Male,12/9/1975,Inc0000758,3/7/2022,physical violence,Female,5/22/1970,Ex-spouse,Injured,Arrested,1,Batken oblast
+ID0000317,Male,8/20/1999,Inc0000759,12/23/2018,sexual violence,Female,8/13/1987,Sibling,No injury,Arrested,4,Bishkek city
+ID0000318,Male,9/18/1987,Inc0000760,5/11/2019,physical violence,Female,12/7/1991,Sibling,Injured,Arrested,4,Jalal-Abat oblast
+ID0000318,Male,4/21/1990,Inc0000761,5/21/2018,psychological violence,Female,5/20/1960,Ex-spouse,Hospitalized,Community Service,7,Chui oblast
+ID0000318,Male,5/17/1987,Inc0000762,5/1/2021,verbal violence,Female,3/2/1978,Partner,No injury,Released,6,Naryn oblast
+ID0000319,Male,6/11/1962,Inc0000763,7/26/2024,physical violence,Female,8/11/1991,Partner,Hospitalized,Community Service,3,Osh oblast
+ID0000319,Male,8/23/1972,Inc0000764,7/27/2019,physical violence,Female,8/8/1981,Partner,Injured,Arrested,9,Chui oblast
+ID0000319,Male,7/27/1963,Inc0000765,3/8/2023,psychological violence,Female,3/25/1989,Ex-spouse,Hospitalized,Arrested,8,Chui oblast
+ID0000320,Male,10/15/1998,Inc0000766,5/27/2022,physical violence,Female,10/19/1970,Parent,Hospitalized,Released,10,Osh city
+ID0000321,Male,9/5/1998,Inc0000767,12/26/2023,verbal violence,Female,8/4/1978,Parent,Injured,Arrested,3,Osh oblast
+ID0000322,Male,6/5/1990,Inc0000768,5/21/2018,sexual violence,Female,2/9/1974,Parent,Hospitalized,Community Service,3,Talas oblast
+ID0000322,Male,3/1/2000,Inc0000769,9/12/2021,verbal violence,Female,3/2/1975,Spouse,Injured,Arrested,2,Jalal-Abat oblast
+ID0000322,Male,8/14/1999,Inc0000770,10/12/2019,physical violence,Female,5/29/1990,Parent,No injury,Community Service,10,Osh city
+ID0000323,Male,2/28/1991,Inc0000771,6/6/2018,psychological violence,Female,1/26/1961,Spouse,Injured,Released,10,Osh city
+ID0000324,Male,5/19/1982,Inc0000772,4/27/2018,physical violence,Female,3/12/1994,Ex-spouse,Injured,Arrested,5,Batken oblast
+ID0000324,Male,1/14/1962,Inc0000773,7/23/2019,sexual violence,Female,6/16/1983,Parent,Hospitalized,Released,2,Osh oblast
+ID0000324,Male,2/25/1966,Inc0000774,3/14/2024,sexual violence,Female,5/21/1971,Spouse,Injured,Arrested,9,Yssyk-Kul oblast
+ID0000325,Male,4/4/1962,Inc0000775,8/27/2022,sexual violence,Female,6/10/1998,Partner,No injury,Released,1,Yssyk-Kul oblast
+ID0000325,Male,6/17/1993,Inc0000776,8/30/2019,verbal violence,Female,6/15/1985,Ex-spouse,Injured,Released,2,Jalal-Abat oblast
+ID0000326,Male,9/15/1984,Inc0000777,10/11/2023,verbal violence,Female,10/23/1995,Sibling,Hospitalized,Arrested,3,Bishkek city
+ID0000326,Female,11/1/1999,Inc0000778,6/16/2019,psychological violence,Female,1/23/1972,Ex-spouse,No injury,Arrested,3,Chui oblast
+ID0000327,Male,12/21/1975,Inc0000779,6/25/2019,sexual violence,Female,10/22/1960,Spouse,No injury,Arrested,3,Bishkek city
+ID0000327,Male,7/30/1973,Inc0000780,10/15/2022,psychological violence,Female,7/12/1994,Spouse,Hospitalized,Released,2,Yssyk-Kul oblast
+ID0000327,Female,2/13/1993,Inc0000781,8/30/2020,sexual violence,Female,6/10/1974,Sibling,No injury,Released,6,Bishkek city
+ID0000328,Male,9/18/1979,Inc0000782,10/22/2021,psychological violence,Female,6/24/1962,Partner,No injury,Released,7,Osh oblast
+ID0000328,Male,9/27/1986,Inc0000783,4/18/2021,sexual violence,Female,5/30/1965,Partner,Injured,Arrested,2,Bishkek city
+ID0000328,Male,4/10/1975,Inc0000784,9/11/2019,verbal violence,Female,12/21/1967,Sibling,Injured,Arrested,10,Bishkek city
+ID0000329,Female,2/4/1972,Inc0000785,3/23/2018,psychological violence,Female,12/24/1966,Sibling,No injury,Arrested,3,Jalal-Abat oblast
+ID0000330,Male,7/13/1973,Inc0000786,9/2/2023,psychological violence,Female,2/3/1983,Ex-spouse,Injured,Community Service,9,Chui oblast
+ID0000330,Male,7/30/1967,Inc0000787,2/9/2019,verbal violence,Female,11/9/1972,Spouse,Hospitalized,Arrested,9,Osh city
+ID0000331,Male,2/7/1977,Inc0000788,11/20/2022,sexual violence,Male,3/21/1995,Partner,No injury,Released,4,Chui oblast
+ID0000331,Male,4/3/2000,Inc0000789,11/19/2018,sexual violence,Female,7/15/1998,Spouse,Injured,Community Service,2,Chui oblast
+ID0000331,Male,12/19/1975,Inc0000790,3/23/2020,sexual violence,Female,7/1/1979,Partner,Injured,Arrested,10,Bishkek city
+ID0000332,Male,1/23/1988,Inc0000791,5/10/2021,verbal violence,Female,6/3/1963,Ex-spouse,Hospitalized,Community Service,9,Chui oblast
+ID0000332,Male,5/31/1992,Inc0000792,1/22/2023,psychological violence,Female,1/5/1973,Partner,Injured,Arrested,4,Chui oblast
+ID0000332,Male,8/15/1978,Inc0000793,7/14/2018,psychological violence,Female,7/6/1970,Partner,No injury,Released,3,Bishkek city
+ID0000333,Male,3/24/1974,Inc0000794,8/25/2021,verbal violence,Female,5/14/1969,Partner,No injury,Released,2,Chui oblast
+ID0000333,Male,4/4/1969,Inc0000795,7/20/2021,verbal violence,Female,8/31/1971,Parent,Hospitalized,Community Service,3,Chui oblast
+ID0000333,Male,2/15/1970,Inc0000796,2/17/2022,sexual violence,Female,7/28/1980,Parent,Hospitalized,Released,2,Chui oblast
+ID0000334,Male,6/1/1971,Inc0000797,9/16/2019,verbal violence,Female,7/1/1976,Partner,Hospitalized,Released,9,Bishkek city
+ID0000334,Female,5/28/1970,Inc0000798,7/25/2019,physical violence,Female,8/26/1968,Ex-spouse,Injured,Arrested,1,Chui oblast
+ID0000334,Male,2/14/1986,Inc0000799,7/13/2019,psychological violence,Female,2/14/1989,Ex-spouse,Injured,Community Service,3,Chui oblast
+ID0000334,Male,10/17/1960,Inc0000800,8/21/2020,physical violence,Female,1/23/1971,Parent,Hospitalized,Community Service,6,Chui oblast
+ID0000335,Male,6/10/1971,Inc0000801,7/9/2023,physical violence,Female,7/28/1981,Sibling,Injured,Community Service,8,Osh city
+ID0000335,Male,6/16/1986,Inc0000802,10/21/2019,physical violence,Female,6/4/1991,Ex-spouse,No injury,Released,7,Chui oblast
+ID0000336,Male,9/25/1979,Inc0000803,4/30/2019,physical violence,Female,2/8/1989,Parent,Hospitalized,Community Service,10,Yssyk-Kul oblast
+ID0000337,Male,9/14/1977,Inc0000804,9/14/2022,physical violence,Female,5/14/1973,Parent,No injury,Community Service,8,Batken oblast
+ID0000337,Male,12/5/1980,Inc0000805,1/2/2022,physical violence,Female,12/19/1960,Parent,Hospitalized,Community Service,6,Osh oblast
+ID0000337,Male,10/21/1987,Inc0000806,9/5/2022,psychological violence,Female,6/16/1997,Parent,Hospitalized,Community Service,9,Chui oblast
+ID0000337,Male,11/9/1990,Inc0000807,5/27/2018,physical violence,Female,2/11/1989,Parent,Hospitalized,Released,8,Bishkek city
+ID0000338,Male,9/21/1974,Inc0000808,4/24/2020,verbal violence,Female,2/9/1972,Spouse,No injury,Community Service,7,Chui oblast
+ID0000338,Male,5/23/1970,Inc0000809,6/4/2022,sexual violence,Female,2/1/1970,Sibling,No injury,Released,3,Chui oblast
+ID0000338,Male,1/17/1972,Inc0000810,5/2/2020,physical violence,Female,3/8/1980,Parent,No injury,Released,6,Bishkek city
+ID0000339,Male,12/11/1997,Inc0000811,1/11/2018,verbal violence,Female,10/27/1983,Parent,Hospitalized,Community Service,7,Jalal-Abat oblast
+ID0000339,Male,10/11/1971,Inc0000812,3/28/2022,sexual violence,Female,2/16/1968,Partner,No injury,Community Service,9,Jalal-Abat oblast
+ID0000339,Male,3/5/1962,Inc0000813,7/16/2018,psychological violence,Female,11/29/1981,Ex-spouse,Injured,Arrested,1,Osh oblast
+ID0000339,Male,6/23/1972,Inc0000814,9/14/2020,sexual violence,Male,5/16/1985,Partner,Injured,Community Service,1,Osh oblast
+ID0000340,Male,1/16/1981,Inc0000815,10/16/2021,physical violence,Female,1/3/1969,Parent,Injured,Community Service,2,Naryn oblast
+ID0000340,Male,1/9/1974,Inc0000816,7/25/2021,physical violence,Female,2/18/1990,Sibling,Hospitalized,Arrested,2,Chui oblast
+ID0000341,Male,5/26/1986,Inc0000817,2/22/2018,sexual violence,Female,7/13/1991,Sibling,Hospitalized,Arrested,10,Chui oblast
+ID0000341,Male,5/26/1995,Inc0000818,2/11/2022,physical violence,Female,6/22/1974,Parent,Hospitalized,Arrested,4,Yssyk-Kul oblast
+ID0000342,Male,9/6/1990,Inc0000819,8/29/2018,physical violence,Female,9/23/1990,Sibling,Injured,Released,5,Osh oblast
+ID0000342,Female,2/24/2000,Inc0000820,5/12/2020,verbal violence,Female,10/21/1991,Partner,No injury,Released,1,Chui oblast
+ID0000342,Male,4/18/1982,Inc0000821,6/3/2018,psychological violence,Female,11/26/1961,Parent,Injured,Released,6,Bishkek city
+ID0000342,Male,11/5/1964,Inc0000822,9/21/2022,verbal violence,Female,2/22/1960,Ex-spouse,No injury,Community Service,1,Bishkek city
+ID0000343,Male,12/23/1987,Inc0000823,10/7/2021,verbal violence,Female,10/16/1991,Parent,Injured,Released,10,Chui oblast
+ID0000343,Male,12/12/1979,Inc0000824,8/14/2022,physical violence,Female,6/13/1964,Partner,No injury,Released,4,Chui oblast
+ID0000344,Male,2/25/1979,Inc0000825,8/25/2023,verbal violence,Female,1/16/1997,Parent,Injured,Released,10,Yssyk-Kul oblast
+ID0000344,Male,3/13/1971,Inc0000826,7/3/2018,verbal violence,Female,1/23/1986,Ex-spouse,No injury,Arrested,2,Jalal-Abat oblast
+ID0000344,Male,4/3/1965,Inc0000827,2/2/2022,psychological violence,Female,6/4/1974,Sibling,No injury,Arrested,8,Chui oblast
+ID0000345,Male,4/3/1998,Inc0000828,1/7/2022,sexual violence,Female,12/26/1977,Spouse,No injury,Released,8,Jalal-Abat oblast
+ID0000345,Male,4/15/1971,Inc0000829,6/4/2022,sexual violence,Female,6/24/1967,Sibling,Hospitalized,Released,7,Osh city
+ID0000346,Female,11/4/1977,Inc0000830,2/4/2018,sexual violence,Female,7/30/1960,Parent,Hospitalized,Community Service,6,Chui oblast
+ID0000347,Female,4/11/1984,Inc0000831,3/16/2020,sexual violence,Female,3/19/1995,Partner,Injured,Community Service,3,Bishkek city
+ID0000347,Male,5/22/1979,Inc0000832,5/25/2022,verbal violence,Female,10/22/1962,Ex-spouse,No injury,Released,6,Osh city
+ID0000347,Male,5/19/1968,Inc0000833,12/19/2018,physical violence,Female,7/22/1987,Parent,Injured,Arrested,10,Chui oblast
+ID0000348,Male,11/23/1999,Inc0000834,7/11/2020,physical violence,Female,6/19/1978,Ex-spouse,No injury,Released,1,Bishkek city
+ID0000349,Male,10/28/1970,Inc0000835,2/24/2021,sexual violence,Female,4/10/1983,Partner,Hospitalized,Community Service,9,Chui oblast
+ID0000349,Male,4/24/1973,Inc0000836,9/6/2022,sexual violence,Female,12/22/1976,Sibling,Hospitalized,Community Service,2,Osh city
+ID0000349,Male,5/13/1990,Inc0000837,12/11/2020,psychological violence,Female,1/24/1962,Sibling,Hospitalized,Arrested,5,Chui oblast
+ID0000350,Male,10/19/1979,Inc0000838,11/2/2021,physical violence,Female,4/9/1961,Partner,No injury,Community Service,4,Bishkek city
+ID0000350,Male,2/19/1977,Inc0000839,8/18/2020,physical violence,Female,3/30/1988,Ex-spouse,Hospitalized,Released,4,Chui oblast
+ID0000351,Female,7/12/1967,Inc0000840,6/8/2021,physical violence,Female,6/18/1985,Parent,Hospitalized,Arrested,3,Naryn oblast
+ID0000351,Male,5/26/1993,Inc0000841,12/16/2022,psychological violence,Female,6/6/1979,Partner,Hospitalized,Released,1,Chui oblast
+ID0000352,Male,10/16/1988,Inc0000842,11/13/2022,verbal violence,Female,11/24/1999,Parent,Injured,Arrested,9,Yssyk-Kul oblast
+ID0000353,Male,4/24/1968,Inc0000843,12/27/2022,psychological violence,Female,12/13/1991,Ex-spouse,Hospitalized,Community Service,6,Bishkek city
+ID0000353,Male,4/15/1992,Inc0000844,4/15/2021,sexual violence,Female,5/9/1965,Parent,Hospitalized,Arrested,10,Chui oblast
+ID0000353,Male,8/28/1992,Inc0000845,5/14/2020,psychological violence,Female,1/27/1961,Sibling,Injured,Community Service,4,Osh city
+ID0000354,Male,5/14/1979,Inc0000846,1/7/2021,physical violence,Female,3/7/1973,Ex-spouse,Injured,Community Service,5,Bishkek city
+ID0000354,Female,5/19/1988,Inc0000847,7/5/2018,physical violence,Female,11/22/1994,Spouse,Hospitalized,Arrested,3,Yssyk-Kul oblast
+ID0000354,Female,10/17/1965,Inc0000848,6/28/2023,verbal violence,Female,12/21/2000,Ex-spouse,Hospitalized,Arrested,6,Naryn oblast
+ID0000355,Male,9/2/1998,Inc0000849,9/22/2018,sexual violence,Female,10/20/1968,Sibling,Hospitalized,Released,7,Bishkek city
+ID0000355,Male,7/11/1968,Inc0000850,8/29/2022,psychological violence,Female,3/21/1995,Partner,Injured,Arrested,8,Bishkek city
+ID0000355,Male,9/30/1987,Inc0000851,4/24/2020,psychological violence,Female,2/25/1987,Partner,No injury,Arrested,9,Bishkek city
+ID0000355,Male,6/20/1967,Inc0000852,10/3/2019,verbal violence,Female,5/6/1971,Sibling,Hospitalized,Community Service,6,Bishkek city
+ID0000356,Male,8/31/1975,Inc0000853,10/12/2020,verbal violence,Female,10/10/1969,Spouse,Hospitalized,Arrested,1,Jalal-Abat oblast
+ID0000356,Male,8/19/1964,Inc0000854,7/14/2024,psychological violence,Female,10/16/1983,Partner,Hospitalized,Released,5,Yssyk-Kul oblast
+ID0000356,Male,8/29/1964,Inc0000855,3/28/2023,psychological violence,Female,7/17/1983,Partner,Injured,Community Service,9,Chui oblast
+ID0000356,Male,5/9/1997,Inc0000856,8/26/2023,physical violence,Female,7/13/1987,Spouse,Hospitalized,Released,4,Osh oblast
+ID0000357,Male,2/4/1976,Inc0000857,4/1/2022,verbal violence,Female,5/7/1998,Partner,Hospitalized,Arrested,3,Chui oblast
+ID0000357,Male,2/22/1967,Inc0000858,9/3/2018,verbal violence,Female,2/17/1964,Parent,Injured,Arrested,10,Talas oblast
+ID0000357,Male,10/8/1982,Inc0000859,6/25/2018,verbal violence,Female,9/13/1991,Spouse,Hospitalized,Community Service,9,Batken oblast
+ID0000358,Male,8/22/1989,Inc0000860,10/1/2022,physical violence,Female,10/9/1984,Spouse,No injury,Released,4,Yssyk-Kul oblast
+ID0000359,Male,4/16/1972,Inc0000861,5/24/2024,verbal violence,Female,8/14/1993,Sibling,Injured,Arrested,6,Chui oblast
+ID0000360,Male,1/1/1968,Inc0000862,8/25/2023,physical violence,Female,4/30/1998,Partner,Hospitalized,Released,4,Bishkek city
+ID0000360,Male,9/7/1983,Inc0000863,3/22/2024,sexual violence,Female,5/26/1972,Ex-spouse,Hospitalized,Arrested,6,Chui oblast
+ID0000361,Male,12/23/1974,Inc0000864,4/2/2022,psychological violence,Female,8/9/1992,Partner,No injury,Released,6,Chui oblast
+ID0000361,Male,7/15/1962,Inc0000865,9/19/2021,physical violence,Female,1/13/1974,Sibling,Injured,Arrested,7,Jalal-Abat oblast
+ID0000362,Male,7/29/1994,Inc0000866,12/31/2019,physical violence,Female,11/26/1964,Partner,No injury,Community Service,10,Osh oblast
+ID0000363,Male,11/18/1995,Inc0000867,1/23/2021,psychological violence,Female,5/27/1967,Spouse,Injured,Released,3,Yssyk-Kul oblast
+ID0000363,Male,6/24/1968,Inc0000868,10/26/2023,physical violence,Female,2/15/1990,Parent,Hospitalized,Released,7,Naryn oblast
+ID0000364,Male,10/5/1986,Inc0000869,10/25/2020,sexual violence,Female,10/19/1985,Partner,Hospitalized,Community Service,4,Bishkek city
+ID0000364,Male,10/22/1978,Inc0000870,9/7/2020,sexual violence,Female,1/27/1999,Partner,No injury,Community Service,9,Batken oblast
+ID0000364,Male,3/12/1967,Inc0000871,7/8/2019,physical violence,Female,8/10/1980,Partner,Injured,Released,2,Chui oblast
+ID0000364,Male,3/11/1960,Inc0000872,1/5/2024,physical violence,Female,12/6/1966,Partner,Injured,Released,8,Bishkek city
+ID0000365,Male,8/9/1966,Inc0000873,11/1/2021,verbal violence,Female,4/30/1995,Spouse,Injured,Community Service,10,Yssyk-Kul oblast
+ID0000365,Male,9/28/1963,Inc0000874,11/1/2022,physical violence,Female,11/18/1998,Ex-spouse,No injury,Community Service,4,Jalal-Abat oblast
+ID0000365,Male,5/5/1997,Inc0000875,12/2/2019,psychological violence,Female,10/27/1997,Parent,Injured,Community Service,9,Bishkek city
+ID0000366,Male,1/6/1976,Inc0000876,11/15/2022,psychological violence,Female,5/21/1982,Spouse,Injured,Community Service,7,Bishkek city
+ID0000366,Male,12/23/1962,Inc0000877,12/21/2022,psychological violence,Female,11/2/1985,Partner,Injured,Community Service,5,Naryn oblast
+ID0000367,Male,4/22/2000,Inc0000878,10/29/2023,physical violence,Female,2/21/1987,Sibling,No injury,Released,4,Jalal-Abat oblast
+ID0000367,Male,9/15/1998,Inc0000879,6/23/2023,sexual violence,Female,9/18/1991,Parent,No injury,Released,3,Bishkek city
+ID0000367,Male,8/27/1994,Inc0000880,12/6/2020,sexual violence,Female,7/26/1990,Parent,No injury,Arrested,10,Osh oblast
+ID0000368,Male,6/24/1969,Inc0000881,1/27/2022,physical violence,Female,5/13/1969,Spouse,No injury,Arrested,8,Jalal-Abat oblast
+ID0000369,Male,4/10/1999,Inc0000882,3/13/2023,psychological violence,Female,7/6/1979,Sibling,Injured,Released,4,Batken oblast
+ID0000370,Male,8/8/1960,Inc0000883,6/27/2021,verbal violence,Female,7/8/1978,Sibling,No injury,Released,3,Naryn oblast
+ID0000370,Male,8/16/1972,Inc0000884,4/28/2024,verbal violence,Female,7/29/1975,Parent,No injury,Arrested,9,Chui oblast
+ID0000371,Male,4/7/1991,Inc0000885,11/21/2020,physical violence,Female,10/4/2000,Parent,Hospitalized,Released,3,Osh oblast
+ID0000372,Female,12/14/1993,Inc0000886,5/8/2018,physical violence,Female,9/19/1968,Parent,Injured,Arrested,6,Yssyk-Kul oblast
+ID0000372,Male,1/20/1995,Inc0000887,6/7/2024,physical violence,Female,3/14/1990,Sibling,Injured,Arrested,8,Jalal-Abat oblast
+ID0000372,Male,4/9/1964,Inc0000888,6/9/2019,verbal violence,Female,3/1/1982,Sibling,Injured,Arrested,8,Chui oblast
+ID0000372,Male,8/26/1971,Inc0000889,11/26/2022,sexual violence,Female,5/19/1966,Ex-spouse,Injured,Arrested,8,Bishkek city
+ID0000373,Male,9/22/1974,Inc0000890,9/2/2018,sexual violence,Female,3/17/1990,Parent,Injured,Released,6,Yssyk-Kul oblast
+ID0000373,Male,8/31/1965,Inc0000891,11/30/2023,verbal violence,Female,10/18/1972,Parent,Hospitalized,Released,7,Bishkek city
+ID0000373,Female,1/24/1966,Inc0000892,4/7/2023,physical violence,Female,5/19/1963,Partner,Injured,Released,3,Batken oblast
+ID0000373,Male,10/2/1980,Inc0000893,3/15/2024,psychological violence,Female,5/1/1989,Parent,Injured,Arrested,2,Osh oblast
+ID0000374,Male,6/18/1972,Inc0000894,9/12/2018,physical violence,Female,6/17/2000,Sibling,Injured,Arrested,4,Osh oblast
+ID0000374,Male,1/24/1992,Inc0000895,8/3/2018,verbal violence,Female,5/6/1992,Spouse,Hospitalized,Community Service,7,Osh oblast
+ID0000374,Female,1/6/1996,Inc0000896,7/2/2023,psychological violence,Female,6/10/1998,Sibling,Injured,Community Service,6,Bishkek city
+ID0000375,Male,3/13/1979,Inc0000897,6/23/2019,verbal violence,Female,5/9/1969,Sibling,No injury,Arrested,8,Batken oblast
+ID0000375,Male,5/11/1973,Inc0000898,5/9/2020,sexual violence,Female,1/18/1989,Spouse,Injured,Community Service,9,Chui oblast
+ID0000375,Male,7/13/1968,Inc0000899,2/16/2021,sexual violence,Female,8/20/1972,Ex-spouse,Hospitalized,Released,8,Bishkek city
+ID0000375,Male,10/19/1992,Inc0000900,1/11/2022,sexual violence,Female,8/1/1983,Parent,No injury,Released,10,Chui oblast
+ID0000376,Male,1/1/1983,Inc0000901,10/13/2020,verbal violence,Female,6/8/1997,Spouse,No injury,Released,7,Bishkek city
+ID0000376,Male,8/5/1988,Inc0000902,3/4/2022,physical violence,Female,4/14/1997,Parent,Injured,Community Service,3,Chui oblast
+ID0000376,Male,3/5/1960,Inc0000903,3/9/2022,psychological violence,Female,11/5/1993,Ex-spouse,No injury,Arrested,1,Batken oblast
+ID0000377,Male,1/6/1975,Inc0000904,2/14/2020,sexual violence,Female,11/4/1999,Parent,No injury,Arrested,2,Chui oblast
+ID0000377,Male,6/9/1960,Inc0000905,4/2/2019,psychological violence,Female,2/14/1973,Ex-spouse,Injured,Arrested,1,Naryn oblast
+ID0000377,Male,11/12/1981,Inc0000906,10/10/2023,physical violence,Female,2/10/1981,Partner,Hospitalized,Arrested,2,Naryn oblast
+ID0000378,Male,10/2/1996,Inc0000907,6/17/2018,physical violence,Female,8/4/1991,Parent,Injured,Arrested,2,Osh oblast
+ID0000378,Male,8/29/1989,Inc0000908,10/3/2022,verbal violence,Female,7/23/1991,Parent,Hospitalized,Arrested,10,Chui oblast
+ID0000378,Male,1/28/1981,Inc0000909,7/13/2024,physical violence,Female,8/14/1961,Parent,No injury,Arrested,8,Bishkek city
+ID0000379,Male,10/28/1990,Inc0000910,1/29/2022,verbal violence,Female,2/11/1969,Ex-spouse,Injured,Arrested,10,Jalal-Abat oblast
+ID0000379,Male,11/27/1972,Inc0000911,6/16/2024,sexual violence,Male,11/29/1974,Partner,Injured,Arrested,4,Yssyk-Kul oblast
+ID0000379,Male,7/23/1966,Inc0000912,8/24/2022,sexual violence,Female,10/24/1966,Spouse,Injured,Released,3,Yssyk-Kul oblast
+ID0000379,Male,2/10/1993,Inc0000913,8/8/2021,psychological violence,Female,9/27/1965,Spouse,Injured,Arrested,4,Batken oblast
+ID0000380,Male,8/23/1988,Inc0000914,5/19/2020,verbal violence,Female,2/26/1995,Spouse,Injured,Community Service,4,Osh oblast
+ID0000380,Male,5/6/1969,Inc0000915,4/25/2022,verbal violence,Female,12/4/1970,Spouse,Hospitalized,Community Service,6,Bishkek city
+ID0000381,Male,7/25/1967,Inc0000916,6/8/2018,psychological violence,Female,12/30/1964,Parent,Injured,Community Service,4,Osh city
+ID0000381,Male,3/29/1982,Inc0000917,9/25/2022,psychological violence,Female,3/25/1973,Partner,Hospitalized,Released,1,Bishkek city
+ID0000381,Male,9/19/1971,Inc0000918,10/22/2020,physical violence,Female,12/30/1972,Spouse,No injury,Arrested,6,Yssyk-Kul oblast
+ID0000381,Male,8/20/1995,Inc0000919,7/18/2019,psychological violence,Female,12/25/1966,Parent,No injury,Released,7,Chui oblast
+ID0000382,Male,1/11/1964,Inc0000920,2/21/2021,physical violence,Female,12/10/1994,Ex-spouse,No injury,Arrested,7,Chui oblast
+ID0000382,Male,9/1/1993,Inc0000921,11/13/2022,verbal violence,Female,10/15/1988,Spouse,No injury,Released,5,Chui oblast
+ID0000382,Female,11/7/1964,Inc0000922,11/4/2020,sexual violence,Female,4/19/1979,Ex-spouse,Injured,Arrested,1,Chui oblast
+ID0000383,Male,1/31/2000,Inc0000923,10/26/2021,sexual violence,Male,5/24/1974,Spouse,No injury,Community Service,2,Bishkek city
+ID0000383,Male,9/30/1988,Inc0000924,3/14/2022,verbal violence,Female,12/19/1990,Spouse,Injured,Released,6,Osh oblast
+ID0000384,Male,7/31/1980,Inc0000925,7/17/2022,verbal violence,Female,7/27/1984,Spouse,Injured,Community Service,2,Osh city
+ID0000385,Male,10/31/1999,Inc0000926,7/6/2020,verbal violence,Female,10/18/1993,Partner,No injury,Arrested,2,Bishkek city
+ID0000385,Female,3/19/1993,Inc0000927,1/21/2024,verbal violence,Female,6/27/1970,Parent,No injury,Arrested,1,Osh city
+ID0000385,Male,11/13/1981,Inc0000928,3/12/2021,physical violence,Female,9/17/1973,Partner,Hospitalized,Arrested,4,Osh city
+ID0000385,Male,3/25/1982,Inc0000929,12/2/2020,psychological violence,Female,1/15/1977,Spouse,No injury,Community Service,7,Osh oblast
+ID0000386,Male,7/7/1992,Inc0000930,1/13/2020,psychological violence,Female,2/7/1990,Spouse,Injured,Released,3,Bishkek city
+ID0000386,Male,7/17/1980,Inc0000931,2/26/2018,psychological violence,Female,11/16/1979,Partner,No injury,Released,7,Bishkek city
+ID0000386,Male,9/13/1990,Inc0000932,10/17/2021,sexual violence,Female,11/5/1976,Sibling,Injured,Community Service,1,Osh city
+ID0000387,Male,10/9/1978,Inc0000933,9/5/2021,psychological violence,Female,1/30/1992,Ex-spouse,Hospitalized,Arrested,8,Jalal-Abat oblast
+ID0000387,Male,9/20/1999,Inc0000934,7/30/2022,psychological violence,Female,8/31/1976,Sibling,Hospitalized,Arrested,9,Yssyk-Kul oblast
+ID0000387,Male,3/7/1968,Inc0000935,7/11/2024,physical violence,Female,9/15/1964,Partner,No injury,Community Service,5,Bishkek city
+ID0000388,Male,7/27/1997,Inc0000936,1/7/2023,sexual violence,Male,6/20/1992,Sibling,Hospitalized,Arrested,9,Bishkek city
+ID0000388,Male,9/1/1961,Inc0000937,6/25/2018,physical violence,Female,10/26/1981,Spouse,Injured,Released,8,Bishkek city
+ID0000389,Male,6/10/1985,Inc0000938,9/27/2022,physical violence,Female,9/22/1973,Ex-spouse,No injury,Arrested,2,Osh oblast
+ID0000389,Male,2/18/1997,Inc0000939,7/15/2020,sexual violence,Female,4/16/1983,Sibling,Hospitalized,Community Service,3,Bishkek city
+ID0000390,Male,3/5/1966,Inc0000940,4/2/2022,psychological violence,Female,7/6/1975,Sibling,No injury,Arrested,7,Bishkek city
+ID0000390,Male,8/25/1995,Inc0000941,12/17/2020,physical violence,Female,4/29/1964,Ex-spouse,No injury,Arrested,7,Yssyk-Kul oblast
+ID0000390,Male,6/12/1962,Inc0000942,7/6/2019,sexual violence,Female,7/7/1965,Partner,Hospitalized,Released,10,Bishkek city
+ID0000391,Male,12/12/1987,Inc0000943,1/15/2021,verbal violence,Female,1/19/1990,Partner,Hospitalized,Arrested,9,Chui oblast
+ID0000391,Male,4/7/1973,Inc0000944,6/14/2023,physical violence,Female,12/5/1983,Spouse,Hospitalized,Released,7,Bishkek city
+ID0000392,Male,3/30/1985,Inc0000945,11/9/2019,psychological violence,Female,3/21/1976,Sibling,No injury,Community Service,2,Bishkek city
+ID0000392,Male,9/19/1960,Inc0000946,6/28/2020,physical violence,Female,10/18/1983,Parent,No injury,Released,10,Bishkek city
+ID0000392,Female,5/21/1970,Inc0000947,8/10/2018,sexual violence,Female,1/5/1985,Sibling,No injury,Community Service,2,Bishkek city
+ID0000392,Male,6/10/1987,Inc0000948,4/4/2023,sexual violence,Female,8/29/1992,Ex-spouse,Injured,Community Service,10,Bishkek city
+ID0000393,Female,9/1/1965,Inc0000949,8/12/2021,psychological violence,Female,6/7/1971,Parent,Injured,Released,3,Osh oblast
+ID0000393,Male,2/24/1987,Inc0000950,6/7/2020,sexual violence,Female,8/16/1969,Sibling,Injured,Arrested,7,Bishkek city
+ID0000394,Male,2/9/1974,Inc0000951,11/15/2018,sexual violence,Female,9/12/1992,Sibling,Injured,Arrested,1,Osh city
+ID0000394,Male,9/5/1982,Inc0000952,11/3/2018,verbal violence,Female,12/8/1979,Ex-spouse,Injured,Community Service,2,Osh oblast
+ID0000395,Male,5/9/1993,Inc0000953,11/4/2022,sexual violence,Female,7/14/1994,Parent,No injury,Arrested,6,Talas oblast
+ID0000395,Male,10/21/1960,Inc0000954,5/11/2021,verbal violence,Female,12/8/1993,Parent,No injury,Released,9,Chui oblast
+ID0000395,Female,10/1/1961,Inc0000955,2/14/2019,sexual violence,Female,4/6/1989,Sibling,No injury,Released,4,Osh city
+ID0000395,Male,4/13/1989,Inc0000956,8/17/2019,sexual violence,Female,4/22/1969,Spouse,Hospitalized,Community Service,6,Chui oblast
+ID0000396,Male,11/21/1993,Inc0000957,7/14/2023,physical violence,Female,3/14/1977,Partner,Hospitalized,Released,9,Osh oblast
+ID0000396,Male,8/30/2000,Inc0000958,4/24/2020,verbal violence,Female,12/6/1961,Ex-spouse,Injured,Arrested,7,Chui oblast
+ID0000397,Male,2/18/1998,Inc0000959,5/13/2018,sexual violence,Female,12/4/1986,Ex-spouse,Hospitalized,Community Service,4,Bishkek city
+ID0000397,Male,8/23/2000,Inc0000960,8/14/2022,physical violence,Female,9/30/1963,Parent,Injured,Community Service,10,Chui oblast
+ID0000397,Male,9/6/1993,Inc0000961,5/17/2018,psychological violence,Female,6/22/1968,Ex-spouse,Injured,Released,8,Bishkek city
+ID0000397,Female,4/7/1983,Inc0000962,2/14/2018,psychological violence,Female,12/31/1967,Partner,Injured,Community Service,6,Jalal-Abat oblast
+ID0000398,Male,1/10/1970,Inc0000963,3/14/2022,verbal violence,Female,3/6/2000,Ex-spouse,No injury,Arrested,5,Batken oblast
+ID0000398,Male,10/3/1960,Inc0000964,10/28/2023,verbal violence,Female,7/28/1971,Sibling,Hospitalized,Community Service,8,Bishkek city
+ID0000398,Male,10/13/1978,Inc0000965,9/29/2022,psychological violence,Female,3/12/1998,Spouse,No injury,Arrested,4,Yssyk-Kul oblast
+ID0000398,Male,12/30/1978,Inc0000966,11/5/2020,psychological violence,Female,9/11/1962,Parent,Injured,Released,5,Bishkek city
+ID0000399,Female,7/27/1981,Inc0000967,1/1/2019,sexual violence,Female,5/29/1960,Sibling,Injured,Arrested,5,Bishkek city
+ID0000399,Female,5/25/1997,Inc0000968,2/21/2021,sexual violence,Male,11/5/1964,Parent,Injured,Community Service,3,Jalal-Abat oblast
+ID0000400,Male,4/23/1971,Inc0000969,4/20/2020,physical violence,Female,7/6/1964,Partner,Injured,Released,7,Osh oblast
+ID0000401,Female,3/20/1997,Inc0000970,11/27/2019,verbal violence,Female,11/28/1992,Ex-spouse,No injury,Released,2,Talas oblast
+ID0000401,Male,2/28/1977,Inc0000971,10/12/2023,physical violence,Female,5/30/1966,Parent,Injured,Released,8,Jalal-Abat oblast
+ID0000401,Female,10/25/1969,Inc0000972,12/15/2023,psychological violence,Female,4/13/1988,Ex-spouse,No injury,Released,3,Jalal-Abat oblast
+ID0000402,Female,3/21/1992,Inc0000973,11/28/2023,verbal violence,Female,4/20/1977,Sibling,Injured,Community Service,5,Osh oblast
+ID0000403,Male,11/27/1996,Inc0000974,5/9/2023,physical violence,Female,11/7/1985,Partner,Injured,Arrested,8,Jalal-Abat oblast
+ID0000403,Male,5/6/1991,Inc0000975,9/6/2020,sexual violence,Female,5/24/1998,Sibling,Hospitalized,Arrested,7,Osh city
+ID0000403,Male,8/4/1980,Inc0000976,11/2/2019,verbal violence,Female,7/8/1996,Ex-spouse,Hospitalized,Released,8,Yssyk-Kul oblast
+ID0000404,Male,1/3/1968,Inc0000977,8/11/2022,verbal violence,Female,7/21/1992,Sibling,Injured,Community Service,10,Bishkek city
+ID0000404,Male,3/7/1970,Inc0000978,6/1/2022,physical violence,Female,3/29/1962,Parent,No injury,Released,5,Batken oblast
+ID0000404,Male,8/16/1999,Inc0000979,7/12/2019,verbal violence,Female,11/11/1960,Partner,No injury,Community Service,4,Chui oblast
+ID0000404,Male,7/1/1982,Inc0000980,8/29/2019,psychological violence,Female,3/1/1961,Partner,Hospitalized,Released,6,Jalal-Abat oblast
+ID0000405,Male,11/25/1981,Inc0000981,6/15/2019,sexual violence,Female,8/22/1986,Spouse,No injury,Community Service,2,Chui oblast
+ID0000405,Male,6/2/1992,Inc0000982,1/15/2018,sexual violence,Female,1/17/1971,Spouse,Hospitalized,Arrested,3,Chui oblast
+ID0000405,Male,6/19/1962,Inc0000983,10/23/2021,psychological violence,Female,7/3/1962,Ex-spouse,Injured,Released,3,Chui oblast
+ID0000405,Female,11/16/1972,Inc0000984,3/1/2020,sexual violence,Female,1/30/1980,Ex-spouse,Injured,Arrested,5,Bishkek city
+ID0000406,Male,9/12/1985,Inc0000985,4/1/2022,psychological violence,Female,3/2/1992,Parent,Hospitalized,Arrested,6,Osh city
+ID0000406,Female,1/25/1993,Inc0000986,1/9/2023,sexual violence,Female,11/21/1999,Parent,Injured,Released,1,Osh oblast
+ID0000406,Male,6/16/1977,Inc0000987,9/27/2020,physical violence,Female,9/26/1991,Partner,No injury,Released,1,Bishkek city
+ID0000407,Male,10/2/1968,Inc0000988,11/21/2019,physical violence,Female,3/9/1990,Parent,Injured,Community Service,7,Jalal-Abat oblast
+ID0000408,Male,12/18/1972,Inc0000989,1/29/2020,verbal violence,Female,7/24/1991,Partner,Injured,Arrested,7,Batken oblast
+ID0000408,Male,11/15/1968,Inc0000990,7/11/2020,psychological violence,Female,9/9/1967,Parent,No injury,Released,5,Yssyk-Kul oblast
+ID0000408,Male,2/9/1997,Inc0000991,7/25/2018,psychological violence,Female,2/19/1969,Parent,Injured,Community Service,9,Osh oblast
+ID0000409,Male,1/27/1998,Inc0000992,3/25/2021,sexual violence,Female,7/1/1961,Partner,No injury,Community Service,7,Yssyk-Kul oblast
+ID0000409,Male,6/12/1962,Inc0000993,1/10/2018,physical violence,Female,11/9/1967,Ex-spouse,Injured,Arrested,3,Chui oblast
+ID0000409,Male,4/17/1978,Inc0000994,4/21/2019,psychological violence,Female,2/2/1998,Spouse,Injured,Arrested,10,Chui oblast
+ID0000410,Male,5/26/1960,Inc0000995,6/20/2019,verbal violence,Female,10/24/1992,Partner,Injured,Arrested,5,Chui oblast
+ID0000410,Male,10/31/1960,Inc0000996,4/14/2022,sexual violence,Female,1/7/1991,Spouse,No injury,Community Service,2,Jalal-Abat oblast
+ID0000410,Female,8/5/1979,Inc0000997,6/30/2018,sexual violence,Female,9/17/1976,Partner,Hospitalized,Arrested,4,Bishkek city
+ID0000410,Male,9/10/1975,Inc0000998,5/3/2022,physical violence,Male,9/5/1968,Parent,Hospitalized,Released,4,Chui oblast
+ID0000411,Male,9/29/1969,Inc0000999,4/17/2019,sexual violence,Female,11/23/1970,Ex-spouse,Hospitalized,Community Service,5,Bishkek city
+ID0000411,Male,4/14/1963,Inc0001000,7/17/2020,psychological violence,Female,1/7/1977,Parent,Injured,Released,7,Yssyk-Kul oblast
